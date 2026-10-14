@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/parotris3/epg-acontra/refs/heads/main/acontra_plus.xml
+acontra+ CINE,acontra+ CINE,

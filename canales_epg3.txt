@@ -1,0 +1,3 @@
+# Fuente: https://raw.githubusercontent.com/parotris3/epg-popups/refs/heads/main/popups.xml
+M+ Romance,M+ Romance,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA
+M+ Terror,M+ Terror,https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR
