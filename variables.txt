@@ -1,2 +1,2 @@
 dias-pasados=4
-dias-futuros=1
+dias-futuros=2
