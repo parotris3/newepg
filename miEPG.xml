@@ -1,579 +1,771 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="LA 1">
+    <display-name>LA 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
   <channel id="LA 2">
+    <display-name>LA 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
   </channel>
   <channel id="Antena 3">
+    <display-name>Antena 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" />
   </channel>
   <channel id="Cuatro">
+    <display-name>Cuatro</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" />
   </channel>
   <channel id="Telecinco">
+    <display-name>Telecinco</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" />
   </channel>
   <channel id="La Sexta">
+    <display-name>La Sexta</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
   </channel>
   <channel id="TVG">
+    <display-name>TVG</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" />
   </channel>
   <channel id="TVG 2">
+    <display-name>TVG 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png" />
   </channel>
   <channel id="TPA7">
+    <display-name>TPA7</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" />
   </channel>
   <channel id="TPA8">
+    <display-name>TPA8</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png" />
   </channel>
   <channel id="M+ Vamos">
+    <display-name>M+ Vamos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" />
   </channel>
   <channel id="M+ Vamos 3">
+    <display-name>M+ Vamos 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" />
   </channel>
   <channel id="Movistar Plus">
+    <display-name>Movistar Plus</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" />
   </channel>
   <channel id="M+ Originales">
+    <display-name>M+ Originales</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="M+ Documentales">
+    <display-name>M+ Documentales</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
   <channel id="M+ Estrenos">
+    <display-name>M+ Estrenos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
   <channel id="M+ Comedia">
+    <display-name>M+ Comedia</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" />
   </channel>
   <channel id="M+ Drama">
+    <display-name>M+ Drama</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" />
   </channel>
   <channel id="M+ Acción">
+    <display-name>M+ Acción</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" />
   </channel>
   <channel id="M+ Terror">
+    <display-name>M+ Terror</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR" />
   </channel>
   <channel id="M+ Romance">
+    <display-name>M+ Romance</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA" />
   </channel>
   <channel id="M+ PopUp">
+    <display-name>M+ PopUp</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/TERROR" />
   </channel>
   <channel id="M+ PopUp 2">
+    <display-name>M+ PopUp 2</display-name>
     <icon src="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MROMA" />
   </channel>
   <channel id="M+ Clásicos">
+    <display-name>M+ Clásicos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="M+ Cine Español">
+    <display-name>M+ Cine Español</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="M+ Indie">
+    <display-name>M+ Indie</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
   </channel>
   <channel id="Pluto TV Cine Comedia">
+    <display-name>Pluto TV Cine Comedia</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png"/>
   </channel>
   <channel id="Pluto TV Cine Comedias Románticas">
+    <display-name>Pluto TV Cine Comedias Románticas</display-name>
     <icon src="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png"/>
   </channel>
   <channel id="Pluto TV Cine Romántico">
+    <display-name>Pluto TV Cine Romántico</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png"/>
   </channel>
   <channel id="Pluto TV Cine Drama">
+    <display-name>Pluto TV Cine Drama</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png"/>
   </channel>
   <channel id="Pluto TV Cine Clásico">
+    <display-name>Pluto TV Cine Clásico</display-name>
     <icon src="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png"/>
   </channel>
   <channel id="Pluto TV Cine Estelar">
+    <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png"/>
   </channel>
   <channel id="Pluto TV Cine Acción">
+    <display-name>Pluto TV Cine Acción</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png"/>
   </channel>
   <channel id="Pluto TV Western">
+    <display-name>Pluto TV Western</display-name>
     <icon src="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png"/>
   </channel>
   <channel id="Poirot y Miss Marple">
+    <display-name>Poirot y Miss Marple</display-name>
     <icon src="https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png"/>
   </channel>
   <channel id="El Mueble">
+    <display-name>El Mueble</display-name>
     <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png"/>
   </channel>
   <channel id="Bom Cine">
+    <display-name>Bom Cine</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
   <channel id="Somos">
+    <display-name>Somos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
   </channel>
   <channel id="Cines Verdi TV">
+    <display-name>Cines Verdi TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
   </channel>
   <channel id="Cine Feel Good">
+    <display-name>Cine Feel Good</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
   </channel>
   <channel id="acontra+">
+    <display-name>acontra+</display-name>
     
   </channel>
   <channel id="Clásicos atresplayer">
+    <display-name>Clásicos atresplayer</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png" />
   </channel>
   <channel id="Multicine atresplayer">
+    <display-name>Multicine atresplayer</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" />
   </channel>
   <channel id="Comedia atresplayer">
+    <display-name>Comedia atresplayer</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png" />
   </channel>
   <channel id="Inquietos atresplayer">
+    <display-name>Inquietos atresplayer</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png" />
   </channel>
   <channel id="ATRESplayer PREMIUM">
+    <display-name>ATRESplayer PREMIUM</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png" />
   </channel>
   <channel id="TCM">
+    <display-name>TCM</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" />
   </channel>
   <channel id="Canal Hollywood">
+    <display-name>Canal Hollywood</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
   </channel>
   <channel id="M+ Hits">
+    <display-name>M+ Hits</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" />
   </channel>
   <channel id="STAR Channel">
+    <display-name>STAR Channel</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
   </channel>
   <channel id="HBO Max Avances">
+    <display-name>HBO Max Avances</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png" />
   </channel>
   <channel id="AXN">
+    <display-name>AXN</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="AXN Movies">
+    <display-name>AXN Movies</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="Warner TV">
+    <display-name>Warner TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" />
   </channel>
   <channel id="SkyShowtime 1">
+    <display-name>SkyShowtime 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" />
   </channel>
   <channel id="AMC">
+    <display-name>AMC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
   </channel>
   <channel id="AMC Break">
+    <display-name>AMC Break</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
   </channel>
   <channel id="AMC Crime">
+    <display-name>AMC Crime</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
   </channel>
   <channel id="SELEKT">
+    <display-name>SELEKT</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Selekt%20TV.png" />
   </channel>
   <channel id="Calle 13">
+    <display-name>Calle 13</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" />
   </channel>
   <channel id="DARK">
+    <display-name>DARK</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
   </channel>
   <channel id="SciFi">
+    <display-name>SciFi</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SciFi.png" />
   </channel>
   <channel id="XTRM">
+    <display-name>XTRM</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
   </channel>
   <channel id="COSMO">
+    <display-name>COSMO</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" />
   </channel>
   <channel id="Comedy Central">
+    <display-name>Comedy Central</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" />
   </channel>
   <channel id="Flooxer">
+    <display-name>Flooxer</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png" />
   </channel>
   <channel id="Sundance TV">
+    <display-name>Sundance TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" />
   </channel>
   <channel id="DKISS">
+    <display-name>DKISS</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" />
   </channel>
   <channel id="MTV">
+    <display-name>MTV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" />
   </channel>
   <channel id="Ten">
+    <display-name>Ten</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" />
   </channel>
   <channel id="BE MAD">
+    <display-name>BE MAD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" />
   </channel>
   <channel id="Atreseries">
+    <display-name>Atreseries</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" />
   </channel>
   <channel id="Neox">
+    <display-name>Neox</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
   </channel>
   <channel id="Nova">
+    <display-name>Nova</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" />
   </channel>
   <channel id="Energy">
+    <display-name>Energy</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" />
   </channel>
   <channel id="TRECE">
+    <display-name>TRECE</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" />
   </channel>
   <channel id="Divinity">
+    <display-name>Divinity</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" />
   </channel>
   <channel id="Factoría de Ficción">
+    <display-name>Factoría de Ficción</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" />
   </channel>
   <channel id="Mega">
+    <display-name>Mega</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" />
   </channel>
   <channel id="Sol Música">
+    <display-name>Sol Música</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" />
   </channel>
   <channel id="Qello Concerts">
+    <display-name>Qello Concerts</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png" />
   </channel>
   <channel id="Mezzo">
+    <display-name>Mezzo</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png" />
   </channel>
   <channel id="Mezzo Live">
+    <display-name>Mezzo Live</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png" />
   </channel>
   <channel id="Classica">
+    <display-name>Classica</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Classica.png" />
   </channel>
   <channel id="National Geographic">
+    <display-name>National Geographic</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" />
   </channel>
   <channel id="Nat Geo Wild">
+    <display-name>Nat Geo Wild</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" />
   </channel>
   <channel id="NatureTime">
+    <display-name>NatureTime</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
   </channel>
   <channel id="Pluto TV Animales">
+    <display-name>Pluto TV Animales</display-name>
     <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png"/>
   </channel>
   <channel id="Pluto TV Diseño">
+    <display-name>Pluto TV Diseño</display-name>
     <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png"/>
   </channel>
   <channel id="Wild Earth">
+    <display-name>Wild Earth</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png"/>
   </channel>
   <channel id="Odisea">
+    <display-name>Odisea</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
   </channel>
   <channel id="Historia">
+    <display-name>Historia</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
   </channel>
   <channel id="Pluto TV Historia">
+    <display-name>Pluto TV Historia</display-name>
     <icon src="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png"/>
   </channel>
   <channel id="Escapa TV">
+    <display-name>Escapa TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png" />
   </channel>
   <channel id="AMC Western">
+    <display-name>AMC Western</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" />
   </channel>
   <channel id="Ciudadanos por el mundo">
+    <display-name>Ciudadanos por el mundo</display-name>
     <icon src="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png"/>
   </channel>
   <channel id="Viajes y Sabores">
+    <display-name>Viajes y Sabores</display-name>
     <icon src="https://www.tivify.es/wp-content/uploads/2025/02/Viajes-y-Sabores-Logo-Web-300x300.png" />
   </channel>
   <channel id="Canal Cocina">
+    <display-name>Canal Cocina</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
   </channel>
   <channel id="Pluto TV Cocina">
+    <display-name>Pluto TV Cocina</display-name>
     <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png"/>
   </channel>
   <channel id="AMC Living">
+    <display-name>AMC Living</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" />
   </channel>
   <channel id="DMAX">
+    <display-name>DMAX</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" />
   </channel>
   <channel id="Top Gear">
+    <display-name>Top Gear</display-name>
     <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png"/>
   </channel>
   <channel id="Discovery">
+    <display-name>Discovery</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" />
   </channel>
   <channel id="Caza y Pesca">
+    <display-name>Caza y Pesca</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" />
   </channel>
   <channel id="Iberalia TV">
+    <display-name>Iberalia TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" />
   </channel>
   <channel id="Clan TVE">
+    <display-name>Clan TVE</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" />
   </channel>
   <channel id="Boing">
+    <display-name>Boing</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png" />
   </channel>
   <channel id="Baby TV">
+    <display-name>Baby TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Baby%20TV.png" />
   </channel>
   <channel id="Squirrel TV">
+    <display-name>Squirrel TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
   </channel>
   <channel id="Disney Channel">
+    <display-name>Disney Channel</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" />
   </channel>
   <channel id="Nickelodeon">
+    <display-name>Nickelodeon</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" />
   </channel>
   <channel id="NICK JR">
+    <display-name>NICK JR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" />
   </channel>
   <channel id="Dreamworks">
+    <display-name>Dreamworks</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" />
   </channel>
   <channel id="24 Horas">
+    <display-name>24 Horas</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" />
   </channel>
   <channel id="Euronews">
+    <display-name>Euronews</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" />
   </channel>
   <channel id="Teledeporte">
+    <display-name>Teledeporte</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" />
   </channel>
   <channel id="Replay">
+    <display-name>Replay</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Replay.png" />
   </channel>
   <channel id="Real Madrid TV">
+    <display-name>Real Madrid TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" />
   </channel>
   <channel id="Eurosport 1">
+    <display-name>Eurosport 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
   </channel>
   <channel id="Eurosport 2">
+    <display-name>Eurosport 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
   </channel>
   <channel id="DAZN 1">
+    <display-name>DAZN 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
   <channel id="DAZN 2">
+    <display-name>DAZN 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
   </channel>
   <channel id="DAZN 3">
+    <display-name>DAZN 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
   </channel>
   <channel id="DAZN 4">
+    <display-name>DAZN 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
   </channel>
   <channel id="DAZN F1">
+    <display-name>DAZN F1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
   </channel>
   <channel id="DAZN LaLiga">
+    <display-name>DAZN LaLiga</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
   </channel>
   <channel id="DAZN LaLiga 2">
+    <display-name>DAZN LaLiga 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" />
   </channel>
   <channel id="M+ LALIGA">
+    <display-name>M+ LALIGA</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" />
   </channel>
   <channel id="M+ LALIGA 2">
+    <display-name>M+ LALIGA 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" />
   </channel>
   <channel id="M+ LALIGA 3">
+    <display-name>M+ LALIGA 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png" />
   </channel>
   <channel id="Primera Federación">
+    <display-name>Primera Federación</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" />
   </channel>
   <channel id="LALIGA TV HYPERMOTION">
+    <display-name>LALIGA TV HYPERMOTION</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
   </channel>
   <channel id="LALIGA TV HYPERMOTION 2">
+    <display-name>LALIGA TV HYPERMOTION 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
   </channel>
   <channel id="LALIGA TV HYPERMOTION 3">
+    <display-name>LALIGA TV HYPERMOTION 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
   </channel>
   <channel id="M+ Liga de Campeones">
+    <display-name>M+ Liga de Campeones</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" />
   </channel>
   <channel id="M+ Liga de Campeones 2">
+    <display-name>M+ Liga de Campeones 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" />
   </channel>
   <channel id="M+ Liga de Campeones 3">
+    <display-name>M+ Liga de Campeones 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" />
   </channel>
   <channel id="M+ Liga de Campeones 4">
+    <display-name>M+ Liga de Campeones 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" />
   </channel>
   <channel id="M+ Liga de Campeones 5">
+    <display-name>M+ Liga de Campeones 5</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" />
   </channel>
   <channel id="M+ Liga de Campeones 6">
+    <display-name>M+ Liga de Campeones 6</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" />
   </channel>
   <channel id="M+ Liga de Campeones 7">
+    <display-name>M+ Liga de Campeones 7</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" />
   </channel>
   <channel id="M+ Liga de Campeones 8">
+    <display-name>M+ Liga de Campeones 8</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" />
   </channel>
   <channel id="M+ Liga de Campeones 9">
+    <display-name>M+ Liga de Campeones 9</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" />
   </channel>
   <channel id="M+ Liga de Campeones 10">
+    <display-name>M+ Liga de Campeones 10</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" />
   </channel>
   <channel id="M+ Liga de Campeones 11">
+    <display-name>M+ Liga de Campeones 11</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" />
   </channel>
   <channel id="M+ Liga de Campeones 12">
+    <display-name>M+ Liga de Campeones 12</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" />
   </channel>
   <channel id="M+ Liga de Campeones 13">
+    <display-name>M+ Liga de Campeones 13</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
   </channel>
   <channel id="M+ Deportes">
+    <display-name>M+ Deportes</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" />
   </channel>
   <channel id="M+ Deportes 2">
+    <display-name>M+ Deportes 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" />
   </channel>
   <channel id="M+ Deportes 3">
+    <display-name>M+ Deportes 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" />
   </channel>
   <channel id="M+ Deportes 4">
+    <display-name>M+ Deportes 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" />
   </channel>
   <channel id="M+ Deportes 5">
+    <display-name>M+ Deportes 5</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" />
   </channel>
   <channel id="M+ Deportes 6">
+    <display-name>M+ Deportes 6</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" />
   </channel>
   <channel id="M+ Golf">
+    <display-name>M+ Golf</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" />
   </channel>
   <channel id="M+ Golf 2">
+    <display-name>M+ Golf 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" />
   </channel>
   <channel id="DAZN 1 Portugal">
+    <display-name>DAZN 1 Portugal</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
   <channel id="DAZN 2 Portugal">
+    <display-name>DAZN 2 Portugal</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
   </channel>
   <channel id="DAZN 3 Portugal">
+    <display-name>DAZN 3 Portugal</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
   </channel>
   <channel id="DAZN 4 Portugal">
+    <display-name>DAZN 4 Portugal</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
   </channel>
   <channel id="DAZN 5 Portugal">
+    <display-name>DAZN 5 Portugal</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" />
   </channel>
   <channel id="BBC Food">
+    <display-name>BBC Food</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Food.png" />
   </channel>
   <channel id="BBC History">
+    <display-name>BBC History</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png" />
   </channel>
   <channel id="BBC Top Gear">
+    <display-name>BBC Top Gear</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png" />
   </channel>
   <channel id="Runtime Familia">
+    <display-name>Runtime Familia</display-name>
     <icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_1.jpg" />
   </channel>
   <channel id="Runtime Comedia">
+    <display-name>Runtime Comedia</display-name>
     <icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg" />
   </channel>
   <channel id="Runtime Romance">
+    <display-name>Runtime Romance</display-name>
     <icon src="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg" />
   </channel>
   <channel id="Veo7">
+    <display-name>Veo7</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" />
   </channel>
   <channel id="VinTV">
+    <display-name>VinTV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" />
   </channel>
   <channel id="El Toro TV">
+    <display-name>El Toro TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" />
   </channel>
   <channel id="M+ LALIGA HDR">
+    <display-name>M+ LALIGA HDR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png" />
   </channel>
   <channel id="AMC+ Connect">
+    <display-name>AMC+ Connect</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%2B%20Connect.png" />
   </channel>
   <channel id="BBC Earth">
+    <display-name>BBC Earth</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
   </channel>
   <channel id="BBC Lifestyle">
+    <display-name>BBC Lifestyle</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Lifestyle.png" />
   </channel>
   <channel id="BBC Series">
+    <display-name>BBC Series</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png" />
   </channel>
   <channel id="M+ Vamos 2">
+    <display-name>M+ Vamos 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" />
   </channel>
   <channel id="Anime Visión">
+    <display-name>Anime Visión</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
   </channel>
   <channel id="Anime Visión Classics">
+    <display-name>Anime Visión Classics</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
   </channel>
   <channel id="Rakuten Familia">
+    <display-name>Rakuten Familia</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png" />
   </channel>
   <channel id="Canal FlixOlé 1">
+    <display-name>Canal FlixOlé 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png" />
   </channel>
   <channel id="Canal FlixOlé 2">
+    <display-name>Canal FlixOlé 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png" />
   </channel>
   <channel id="DAZN Baloncesto">
+    <display-name>DAZN Baloncesto</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" />
   </channel>
   <channel id="DAZN Baloncesto 2">
+    <display-name>DAZN Baloncesto 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" />
   </channel>
   <channel id="DAZN Baloncesto 3">
+    <display-name>DAZN Baloncesto 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
   </channel>
   <channel id="Fútbol 1 Orange">
+    <display-name>Fútbol 1 Orange</display-name>
     
   </channel>
   <channel id="Fútbol 2 Orange">
+    <display-name>Fútbol 2 Orange</display-name>
     
   </channel>
   <channel id="Fútbol 3 Orange">
+    <display-name>Fútbol 3 Orange</display-name>
     
   </channel>
   <channel id="Historia y Vida">
+    <display-name>Historia y Vida</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
   </channel>
   <channel id="Squirrel 2">
+    <display-name>Squirrel 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
   </channel>
   <channel id="DAZN MotoGP">
+    <display-name>DAZN MotoGP</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" />
   </channel>
   <channel id="M+ Cero">
+    <display-name>M+ Cero</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cero.png" />
   </channel>
   <channel id="Infinity Viajes">
+    <display-name>Infinity Viajes</display-name>
     <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="M6 MUSIC">
+    <display-name>M6 MUSIC</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
   </channel>
 	<programme start="20261015074900 +0200" stop="20261015103500 +0200" channel="LA 1">
@@ -7378,16 +7570,6 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015084134 +0000" stop="20261015104434 +0000" channel="Pluto TV Cine Comedia">
-    <title>Mi casa en París</title>
-    <episode-num system="original-air-date">20150807000000 +0000</episode-num>
-    <desc>Mathias, un desventurado neoyorquino sin esposa, sin hijos y sin un céntimo, hereda de su padre, con quien no se hablaba, una enorme en casa en París, de la que quiere deshacerse lo antes posible.</desc>
-    <icon src="https://images.pluto.tv/episodes/60d0438028f1d30013ed3e46/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20150807</date>
-    <series-id system="pluto">60d0437e28f1d30013ed3e40</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
   <programme start="20261015104434 +0000" stop="20261015122934 +0000" channel="Pluto TV Cine Comedia">
     <title>Entrega especial</title>
     <episode-num system="original-air-date">20080101000000 +0000</episode-num>
@@ -7415,8 +7597,8 @@
     <icon src="https://images.pluto.tv/episodes/6502c8c53b20050013826194/poster_1768604674409.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20200101</date>
     <series-id system="pluto">6502c8c33b20050013826175</series-id>
-    <category>Dark Humor &amp; Black Comedies</category>
     <category>Comedy</category>
+    <category>Dark Humor &amp; Black Comedies</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015155238 +0000" stop="20261015174455 +0000" channel="Pluto TV Cine Comedia">
@@ -7447,8 +7629,8 @@
     <date>20200302</date>
     <series-id system="pluto">67ef891089ba442cd92561ad</series-id>
     <category>Comedy</category>
-    <category>Movie</category>
     <category>Foreign Comedies</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015211452 +0000" stop="20261015230324 +0000" channel="Pluto TV Cine Comedia">
     <title>Primavera en Normandía</title>
@@ -7480,27 +7662,6 @@
     <category>Comedy</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261015075151 +0000" stop="20261015094334 +0000" channel="Pluto TV Cine Comedias Románticas">
-    <title>Mia Sarah</title>
-    <episode-num system="original-air-date">20061215000000 +0000</episode-num>
-    <desc>Samuel y su abuelo Paul crean planes para repeler al último de una larga lista de psicólogos.</desc>
-    <icon src="https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20061215</date>
-    <series-id system="pluto">6646267ba086180013490dd8</series-id>
-    <category>Romantic comedy</category>
-    <category>Movie</category>
-    <category>Romance</category>
-  </programme>
-  <programme start="20261015094334 +0000" stop="20261015112434 +0000" channel="Pluto TV Cine Comedias Románticas">
-    <title>3 Times A Charm</title>
-    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
-    <desc>Emma siempre ha hecho lo correcto ... hasta que se enamaora de un flechazo y este le pide que le ayude a engañar con el fin de salvar su beca de fútbol.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f6316c1ddf1b7001a80d277/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20110101</date>
-    <series-id system="pluto">5f6316c0ddf1b7001a80d26f</series-id>
-    <category>Movie</category>
-    <category>Romance</category>
-  </programme>
   <programme start="20261015112434 +0000" stop="20261015130434 +0000" channel="Pluto TV Cine Comedias Románticas">
     <title>Before You Say I Do</title>
     <episode-num system="original-air-date">20090101000000 +0000</episode-num>
@@ -7509,8 +7670,8 @@
     <date>20090101</date>
     <series-id system="pluto">5f4948a961f1b1001afec773</series-id>
     <category>African-American Romance</category>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015130434 +0000" stop="20261015145306 +0000" channel="Pluto TV Cine Comedias Románticas">
     <title>Primavera en Normandía</title>
@@ -7529,8 +7690,8 @@
     <icon src="https://images.pluto.tv/episodes/6502c8c53b20050013826194/poster_1768604674409.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20200101</date>
     <series-id system="pluto">6502c8c33b20050013826175</series-id>
-    <category>Dark Humor &amp; Black Comedies</category>
     <category>Comedy</category>
+    <category>Dark Humor &amp; Black Comedies</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015162810 +0000" stop="20261015181208 +0000" channel="Pluto TV Cine Comedias Románticas">
@@ -7563,8 +7724,8 @@
     <date>20110805</date>
     <series-id system="pluto">6076b6a9235736001ac449b3</series-id>
     <category>Romantic comedy</category>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015215930 +0000" stop="20261015234110 +0000" channel="Pluto TV Cine Comedias Románticas">
     <title>Red Dog, una historia de lealtad</title>
@@ -7586,25 +7747,14 @@
     <category>Science fiction</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261015072443 +0000" stop="20261015094843 +0000" channel="Pluto TV Cine Romántico">
-    <title>La señorita Julia</title>
-    <episode-num system="original-air-date">20141127000000 +0000</episode-num>
-    <desc>Una noche de verano en una mansión en el campo irlandés en 1880. La película explora la lucha de poder entre una joven aristócrata y el criado de su padre.</desc>
-    <icon src="https://images.pluto.tv/episodes/60d0437d28f1d30013ed3d7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20141127</date>
-    <series-id system="pluto">60d0437c28f1d30013ed3d79</series-id>
+  <programme start="20261016013454 +0000" stop="20261016030536 +0000" channel="Pluto TV Cine Comedias Románticas">
+    <title>Sí quiero, pero no quiero</title>
+    <episode-num system="original-air-date">20040913000000 +0000</episode-num>
+    <desc>Lauren, una joven divorciada que trabaja organizando bodas, se enamora del novio de una de sus clientas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a21a1057c1064824542ed91/poster_1780588806130.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20040913</date>
+    <series-id system="pluto">6a21a1047c1064824542ed71</series-id>
     <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261015094843 +0000" stop="20261015114343 +0000" channel="Pluto TV Cine Romántico">
-    <title>En tránsito</title>
-    <episode-num system="original-air-date">20180615000000 +0000</episode-num>
-    <desc>Segunda Guerra Mundial. En Marsella, refugiados de toda Europa embarcan rumbo a América, huyendo de la ocupación nazi. Entre ellos, el joven alemán Georg, suplanta la identidad de un escritor para utilizar su visado, que le garantiza refugio en México.</desc>
-    <icon src="https://images.pluto.tv/episodes/60d2d7cdfad1f80013b32b9e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20180615</date>
-    <series-id system="pluto">60d2d7cdfad1f80013b32b98</series-id>
-    <category>Biographical Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015114343 +0000" stop="20261015132743 +0000" channel="Pluto TV Cine Romántico">
@@ -7614,8 +7764,8 @@
     <icon src="https://images.pluto.tv/episodes/60d0437628f1d30013ed3c18/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20141107</date>
     <series-id system="pluto">60d0437628f1d30013ed3c12</series-id>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015132743 +0000" stop="20261015151226 +0000" channel="Pluto TV Cine Romántico">
     <title>La segunda oportunidad</title>
@@ -7665,8 +7815,8 @@
     <icon src="https://images.pluto.tv/episodes/5f523c16db45a1001a79aac9/poster_1779885889185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080101</date>
     <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015230711 +0000" stop="20261016003511 +0000" channel="Pluto TV Cine Romántico">
     <title>4 Wedding Planners</title>
@@ -7676,8 +7826,8 @@
     <date>20110101</date>
     <series-id system="pluto">5f4948c061f1b1001afec842</series-id>
     <category>African-American Romance</category>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261016003511 +0000" stop="20261016020425 +0000" channel="Pluto TV Cine Romántico">
     <title>El permiso</title>
@@ -7686,19 +7836,8 @@
     <icon src="https://images.pluto.tv/episodes/6502cb92c5645000137ea73a/poster_1768608345432.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20180101</date>
     <series-id system="pluto">6502cb90c5645000137ea71b</series-id>
-    <category>Dark Humor &amp; Black Comedies</category>
     <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261015075455 +0000" stop="20261015102055 +0000" channel="Pluto TV Cine Drama">
-    <title>Nuestra hermana pequeña</title>
-    <episode-num system="original-air-date">20160323000000 +0000</episode-num>
-    <desc>Nuestra hermana pequeña</desc>
-    <icon src="https://images.pluto.tv/episodes/60d0439028f1d30013ed424f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20160323</date>
-    <series-id system="pluto">60d0438f28f1d30013ed4249</series-id>
-    <category>Drama</category>
-    <category>Foreign Drama</category>
+    <category>Dark Humor &amp; Black Comedies</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015102055 +0000" stop="20261015122455 +0000" channel="Pluto TV Cine Drama">
@@ -7739,9 +7878,9 @@
     <icon src="https://images.pluto.tv/episodes/69ef7e5024d9b7beb5b68be7/poster_1777303140286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20040101</date>
     <series-id system="pluto">69ef7e4f24d9b7beb5b68bc8</series-id>
-    <category>Independent Drama</category>
     <category>Drama</category>
     <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261015181903 +0000" stop="20261015204403 +0000" channel="Pluto TV Cine Drama">
     <title>Invencible</title>
@@ -7750,9 +7889,9 @@
     <icon src="https://images.pluto.tv/episodes/61c1ddb042817b001a8bb1b7/poster_1769515852839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20020101</date>
     <series-id system="pluto">61c1ddaa42817b001a8bb1b0</series-id>
-    <category>Independent Drama</category>
     <category>Drama</category>
     <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261015204403 +0000" stop="20261015223903 +0000" channel="Pluto TV Cine Drama">
     <title>Caza de brujas</title>
@@ -7761,9 +7900,9 @@
     <icon src="https://images.pluto.tv/episodes/60795a0af6870e001a5d054d/poster_1779473522666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19910315</date>
     <series-id system="pluto">60795a09f6870e001a5d0547</series-id>
-    <category>Independent Drama</category>
     <category>Drama</category>
     <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261015223903 +0000" stop="20261016011703 +0000" channel="Pluto TV Cine Drama">
     <title>Romanzo Criminale</title>
@@ -7772,8 +7911,8 @@
     <icon src="https://images.pluto.tv/episodes/6230a1d925269a0013a6d04f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20050101</date>
     <series-id system="pluto">6230a1d525269a0013a6d048</series-id>
-    <category>Biographical Drama</category>
     <category>Drama</category>
+    <category>Biographical Drama</category>
     <category>Movie</category>
   </programme>
   <programme start="20261016011703 +0000" stop="20261016033003 +0000" channel="Pluto TV Cine Drama">
@@ -7783,28 +7922,7 @@
     <icon src="https://images.pluto.tv/episodes/5fe9b76f4aa70a001a4fd3c0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">5fe9b76e4aa70a001a4fd3ba</series-id>
-    <category>Movie</category>
     <category>Action</category>
-  </programme>
-  <programme start="20261015074823 +0000" stop="20261015093723 +0000" channel="Pluto TV Cine Clásico">
-    <title>La promesa verde: La tierra prometida</title>
-    <episode-num system="original-air-date">19490101000000 +0000</episode-num>
-    <desc>El anciano viudo Matthews, que ha vivido toda su vida como agricultor, trasladó a su familia y a sus cuatro hijos adolescentes a una granja recién comprada en Millwood.</desc>
-    <icon src="https://images.pluto.tv/episodes/615eaae874755c001a4ca294/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19490101</date>
-    <series-id system="pluto">615eaae774755c001a4ca28e</series-id>
-    <category>Biographical Drama</category>
-    <category>Drama</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261015093723 +0000" stop="20261015110723 +0000" channel="Pluto TV Cine Clásico">
-    <title>El enemigo público</title>
-    <episode-num system="original-air-date">19310101000000 +0000</episode-num>
-    <desc>Un criminal de poca monta va haciéndose un nombre en los bajos fondos de Chicago gracias a la ley seca.</desc>
-    <icon src="https://images.pluto.tv/episodes/636e37dc36d64a0014593df8/poster_1771859827334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19310101</date>
-    <series-id system="pluto">636e37db36d64a0014593df1</series-id>
-    <category>Thriller</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015110723 +0000" stop="20261015123523 +0000" channel="Pluto TV Cine Clásico">
@@ -7864,8 +7982,8 @@
     <icon src="https://images.pluto.tv/episodes/6183d80e54ba66001a6a2ef2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19460101</date>
     <series-id system="pluto">6183d80e54ba66001a6a2ef0</series-id>
-    <category>Biographical Drama</category>
     <category>Drama</category>
+    <category>Biographical Drama</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015202923 +0000" stop="20261015221754 +0000" channel="Pluto TV Cine Clásico">
@@ -7895,31 +8013,9 @@
     <icon src="https://images.pluto.tv/episodes/63723ea592944d001480aa4c/poster_1768610980241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19690101</date>
     <series-id system="pluto">63723ea492944d001480aa44</series-id>
+    <category>Drama</category>
     <category>Historical Drama</category>
-    <category>Drama</category>
     <category>Movie</category>
-  </programme>
-  <programme start="20261015084644 +0000" stop="20261015101525 +0000" channel="Pluto TV Cine Estelar">
-    <title>Salto al vacío</title>
-    <episode-num system="original-air-date">19950302000000 +0000</episode-num>
-    <desc>Alex es una chica de 20 años que se hace cargo de la manutención de su familia con el tráfico ilegal de armas. Es la única chica en un mundo de hombres, dividida entre la necesidad de encontrar el amor y una vida basada en la violencia.</desc>
-    <icon src="https://images.pluto.tv/episodes/6aa3d121763ed26aa48a21ff/poster_1789120803116.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19950302</date>
-    <series-id system="pluto">6aa3d120763ed26aa48a21dc</series-id>
-    <category>Independent Drama</category>
-    <category>Drama</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261015101525 +0000" stop="20261015115825 +0000" channel="Pluto TV Cine Estelar">
-    <title>Nunca es tarde para enamorarse</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20080101</date>
-    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
-    <category>African-American Romance</category>
-    <category>Movie</category>
-    <category>Romance</category>
   </programme>
   <programme start="20261015115825 +0000" stop="20261015135525 +0000" channel="Pluto TV Cine Estelar">
     <title>El libro del amor</title>
@@ -7928,9 +8024,9 @@
     <icon src="https://images.pluto.tv/episodes/60780e20918e16001a517bee/poster_1768608362861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20160101</date>
     <series-id system="pluto">60780e1e918e16001a517be8</series-id>
-    <category>Independent Drama</category>
     <category>Drama</category>
     <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261015135525 +0000" stop="20261015154825 +0000" channel="Pluto TV Cine Estelar">
     <title>New York, I Love You</title>
@@ -7940,8 +8036,8 @@
     <date>20080101</date>
     <series-id system="pluto">5f4ead34db45a1001a795471</series-id>
     <category>African-American Romance</category>
-    <category>Movie</category>
     <category>Romance</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015154825 +0000" stop="20261015172638 +0000" channel="Pluto TV Cine Estelar">
     <title>Un mes en el campo</title>
@@ -7950,9 +8046,9 @@
     <icon src="https://images.pluto.tv/episodes/6aa3d123763ed26aa48a8413/poster_1789120819970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>19870531</date>
     <series-id system="pluto">6aa3d123763ed26aa48a83ef</series-id>
-    <category>Independent Drama</category>
     <category>Drama</category>
     <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme start="20261015172638 +0000" stop="20261015190738 +0000" channel="Pluto TV Cine Estelar">
     <title>Hitler: El ascenso del mal - Parte 1</title>
@@ -7963,8 +8059,8 @@
     <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
     <date>20030518</date>
     <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015190738 +0000" stop="20261015204838 +0000" channel="Pluto TV Cine Estelar">
     <title>Hitler: El ascenso del mal - Parte 2</title>
@@ -7975,8 +8071,8 @@
     <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
     <date>20030518</date>
     <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015204838 +0000" stop="20261015225732 +0000" channel="Pluto TV Cine Estelar">
     <title>El Lobo</title>
@@ -8008,31 +8104,6 @@
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261015082200 +0000" stop="20261015095841 +0000" channel="Pluto TV Cine Acción">
-    <title>CAT. 8</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">6a281f3c7918fece01133733</episode-num>
-    <episode-num system="original-air-date">20130209000000 +0000</episode-num>
-    <desc>Para sorpresa del mundo, el sol libera una gigantesca eyección de masa coronal.</desc>
-    <icon src="https://images.pluto.tv/series/6a281f3b7918fece01133712/tile_1781014332633.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20130209</date>
-    <series-id system="pluto">6a281f3b7918fece01133712</series-id>
-    <sub-title>Segunda parte</sub-title>
-    <category>Adventure</category>
-    <category>Series</category>
-    <category>Action</category>
-  </programme>
-  <programme start="20261015095841 +0000" stop="20261015112801 +0000" channel="Pluto TV Cine Acción">
-    <title>Monter's Battlefield</title>
-    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
-    <desc>Ye Qin, la prometida del rey soldado Qin Yang, murió trágicamente frente a una bestia gigante desconocida. Gu Ping lo invitó a participar en la investigación de Ye Qin durante su vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/66a754722fca060013122bd5/poster_1769189762316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20230101</date>
-    <series-id system="pluto">66a754702fca060013122bb6</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Movie</category>
-    <category>Action</category>
-  </programme>
   <programme start="20261015112801 +0000" stop="20261015131033 +0000" channel="Pluto TV Cine Acción">
     <title>Brotherhood</title>
     <episode-num system="original-air-date">20220101000000 +0000</episode-num>
@@ -8040,9 +8111,9 @@
     <icon src="https://images.pluto.tv/episodes/66a7503a9322c00013eb2455/poster_1769189402410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20220101</date>
     <series-id system="pluto">66a750389322c00013eb2436</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme start="20261015131033 +0000" stop="20261015161305 +0000" channel="Pluto TV Cine Acción">
     <title>Las crónicas de la Grulla Blanca</title>
@@ -8051,8 +8122,8 @@
     <icon src="https://images.pluto.tv/episodes/654a299225fde2001af578d5/poster_1782271817783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20080229</date>
     <series-id system="pluto">654a299025fde2001af578b6</series-id>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015161305 +0000" stop="20261015174222 +0000" channel="Pluto TV Cine Acción">
     <title>12 Hours</title>
@@ -8061,9 +8132,9 @@
     <icon src="https://images.pluto.tv/episodes/66a75b8a17101c00138d8937/poster_1769189402117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20220101</date>
     <series-id system="pluto">66a75b8917101c00138d8918</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme start="20261015174222 +0000" stop="20261015185605 +0000" channel="Pluto TV Cine Acción">
     <title>Ace Bodyguard</title>
@@ -8072,9 +8143,9 @@
     <icon src="https://images.pluto.tv/episodes/66a74ed46134930013b921d4/poster_1769189402324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20210101</date>
     <series-id system="pluto">66a74ed36134930013b921b5</series-id>
-    <category>Foreign Action &amp; Adventure</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
+    <category>Foreign Action &amp; Adventure</category>
   </programme>
   <programme start="20261015185605 +0000" stop="20261015202335 +0000" channel="Pluto TV Cine Acción">
     <title>Traición</title>
@@ -8093,9 +8164,9 @@
     <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
     <date>20130927</date>
     <series-id system="pluto">67371a40321c190013a008a0</series-id>
-    <category>Blockbusters</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
+    <category>Blockbusters</category>
   </programme>
   <programme start="20261015222955 +0000" stop="20261016001040 +0000" channel="Pluto TV Cine Acción">
     <title>Dredd</title>
@@ -8115,17 +8186,7 @@
     <date>20220101</date>
     <series-id system="pluto">6abfae22e92f473633060882</series-id>
     <category>Adventure</category>
-    <category>Movie</category>
     <category>Action</category>
-  </programme>
-  <programme start="20261015082730 +0000" stop="20261015102259 +0000" channel="Pluto TV Western">
-    <title>Descanse en paz (Requiescant)</title>
-    <episode-num system="original-air-date">19670310000000 +0000</episode-num>
-    <desc>En México, un niño que escapó de la masacre familiar es criado por un pastor evangélico hasta que, una vez que se ha convertido en un hábil pistolero, busca su venganza, encontrando a su hermana y adhiriéndose a los ideales de la Revolución.</desc>
-    <icon src="https://images.pluto.tv/episodes/6638f348af79c700138e6ad5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>19670310</date>
-    <series-id system="pluto">6638f346af79c700138e6ab5</series-id>
-    <category>Western</category>
     <category>Movie</category>
   </programme>
   <programme start="20261015102259 +0000" stop="20261015125500 +0000" channel="Pluto TV Western">
@@ -8166,8 +8227,8 @@
     <date>19680101</date>
     <series-id system="pluto">63723a71fc0c0b0013b5ffcf</series-id>
     <category>Adventure</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015180809 +0000" stop="20261015200706 +0000" channel="Pluto TV Western">
     <title>Jonny Guitar</title>
@@ -8209,31 +8270,15 @@
     <category>Western</category>
     <category>Movie</category>
   </programme>
-  <programme start="20261015075700 +0000" stop="20261015094400 +0000" channel="Poirot y Miss Marple">
-    <title>Agatha Christie: Poirot ES: Después del funeral</title>
-    <episode-num system="onscreen">S10E1003</episode-num>
-    <episode-num system="pluto">64886f5c93485d0013861e1e</episode-num>
-    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
-    <desc>Los servicios de Hércules Poirot son contratados para investigar la muerte de Richard Abernethie, patriarca de la familia. Un cambio en su testamento y el reparto de la fortuna parecen ser la clave.</desc>
-    <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1786012561886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20060101</date>
-    <series-id system="pluto">648192f0662d03001b575fa0</series-id>
-    <sub-title>Después del funeral</sub-title>
-    <category>Thriller</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015094400 +0000" stop="20261015113200 +0000" channel="Poirot y Miss Marple">
-    <title>Agatha Christie: Poirot ES: Poirot. Pleamares de la vida</title>
-    <episode-num system="onscreen">S10E1004</episode-num>
-    <episode-num system="pluto">64886f7993485d001386268e</episode-num>
-    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
-    <desc>Después de que Gordon Cloade muriese en una explosión sin dejar rastro, su joven viuda recibe toda su fortuna. Pero el hermano de ésta se niega a compartir la herencia con la familia del fallecido.</desc>
-    <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1786012561886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20060101</date>
-    <series-id system="pluto">648192f0662d03001b575fa0</series-id>
-    <sub-title>Poirot. Pleamares de la vida</sub-title>
-    <category>Thriller</category>
-    <category>Series</category>
+  <programme start="20261016011003 +0000" stop="20261016041825 +0000" channel="Pluto TV Western">
+    <title>Coraje de mujer</title>
+    <episode-num system="original-air-date">19970101000000 +0000</episode-num>
+    <desc>La resistencia, amor y, sobre todo, firme determinación femenina, a lo largo de casi cincuenta años de agitación a mediados del siglo XIX, desde la tumultuosa Revolución de Texas hasta el primer movimiento por el sufragio femenino.</desc>
+    <icon src="https://images.pluto.tv/episodes/655b5c8d12fb500013177dee/poster_1769187962021.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19970101</date>
+    <series-id system="pluto">655b5c8b12fb500013177dcf</series-id>
+    <category>Western</category>
+    <category>Movie</category>
   </programme>
   <programme start="20261015113200 +0000" stop="20261015131500 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Miss Marple ES: El espejo que se rajó de lado a lado</title>
@@ -8245,8 +8290,8 @@
     <date>20110101</date>
     <series-id system="pluto">64abf9c8aab4dc001331ba33</series-id>
     <sub-title>El espejo que se rajó de lado a lado</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015131500 +0000" stop="20261015150200 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Poirot ES: La señora McGinty ha muerto</title>
@@ -8258,8 +8303,8 @@
     <date>20080101</date>
     <series-id system="pluto">648192f0662d03001b575fa0</series-id>
     <sub-title>La señora McGinty ha muerto</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015150200 +0000" stop="20261015164900 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Poirot ES: Un gato en el palomar</title>
@@ -8271,8 +8316,8 @@
     <date>20080101</date>
     <series-id system="pluto">648192f0662d03001b575fa0</series-id>
     <sub-title>Un gato en el palomar</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015164900 +0000" stop="20261015183600 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Poirot ES: La tercera muchacha</title>
@@ -8284,8 +8329,8 @@
     <date>20080101</date>
     <series-id system="pluto">648192f0662d03001b575fa0</series-id>
     <sub-title>La tercera muchacha</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015183600 +0000" stop="20261015201800 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Miss Marple ES: Misterio en el Caribe</title>
@@ -8297,8 +8342,8 @@
     <date>20130101</date>
     <series-id system="pluto">64abf9c8aab4dc001331ba33</series-id>
     <sub-title>Misterio en el Caribe</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015201800 +0000" stop="20261015220500 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Poirot ES: Cita con la muerte</title>
@@ -8310,8 +8355,8 @@
     <date>20090101</date>
     <series-id system="pluto">648192f0662d03001b575fa0</series-id>
     <sub-title>Cita con la muerte</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015220500 +0000" stop="20261015234800 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Poirot ES: Tragedia en tres actos</title>
@@ -8323,8 +8368,8 @@
     <date>20100101</date>
     <series-id system="pluto">648192f0662d03001b575fa0</series-id>
     <sub-title>Tragedia en tres actos</sub-title>
-    <category>Thriller</category>
     <category>Series</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015234800 +0000" stop="20261016013100 +0000" channel="Poirot y Miss Marple">
     <title>Agatha Christie: Poirot ES: Las manzanas</title>
@@ -8336,53 +8381,21 @@
     <date>20100101</date>
     <series-id system="pluto">648192f0662d03001b575fa0</series-id>
     <sub-title>Las manzanas</sub-title>
+    <category>Series</category>
     <category>Thriller</category>
-    <category>Series</category>
   </programme>
-  <programme start="20261015084600 +0000" stop="20261015093800 +0000" channel="El Mueble">
-    <title>Flipping Virgins</title>
-    <live/>
-    <episode-num system="original-air-date">20261015084600 +0000</episode-num>
-    <desc>Madre e hija se enfrentan a su primera reforma con el objetivo de donar los beneficios a una causa muy especial: los niños en edad escolar de su Nigeria natal. Egypt las ayudará a cerrar la compra de una propiedad que parece muy prometedora.</desc>
-    <icon src="https://images.pluto.tv/series/69f085833312e3048e086673/tile_1777370500164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">69f085833312e3048e086673</series-id>
+  <programme start="20261016013100 +0000" stop="20261016031400 +0000" channel="Poirot y Miss Marple">
+    <title>Agatha Christie: Miss Marple ES: Miss Marple. La locura de Greenshaw</title>
+    <episode-num system="onscreen">S06E602</episode-num>
+    <episode-num system="pluto">64ad3a776315810013f36bb1</episode-num>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Miss Marple ayuda a su amiga Louisa a encontrar trabajo. La mujer es contratada en la casa de una amiga de la detective como secretaria, pero todo se complica cuando el mayordomo aparece muerto.</desc>
+    <icon src="https://images.pluto.tv/series/64abf9c8aab4dc001331ba33/tile_1786012561868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20130101</date>
+    <series-id system="pluto">64abf9c8aab4dc001331ba33</series-id>
+    <sub-title>Miss Marple. La locura de Greenshaw</sub-title>
     <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261015093800 +0000" stop="20261015100400 +0000" channel="El Mueble">
-    <title>S.O.S. Jardines</title>
-    <live/>
-    <episode-num system="original-air-date">20261015093800 +0000</episode-num>
-    <desc>Para darles un espacio de vida adicional a Ali, Hana y sus dos hijos, Brian y Sarah convierten un antiguo garaje en un lugar de reunión de música y arte para niños.</desc>
-    <icon src="https://images.pluto.tv/series/6944039663f946a2ce49a175/tile_1766065102598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6944039663f946a2ce49a175</series-id>
-    <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261015100400 +0000" stop="20261015105800 +0000" channel="El Mueble">
-    <title>A bocados verano</title>
-    <live/>
-    <episode-num system="original-air-date">20261015100400 +0000</episode-num>
-    <desc>El cocinero Ander González y la nutricionista Gabriela Uriarte nos proponen una receta de filetes rusos rellenos. Además, nos cuentan cómo mejorar nuestra alimentación y estilo de vida.</desc>
-    <icon src="https://images.pluto.tv/series/6a1fdfb6dee9a631d02ed1db/tile_1780473783634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a1fdfb6dee9a631d02ed1db</series-id>
-    <sub-title>Filetes rusos rellenos - Bilbao</sub-title>
-    <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261015105800 +0000" stop="20261015115100 +0000" channel="El Mueble">
-    <title>Nuestro propio castillo DIY</title>
-    <live/>
-    <episode-num system="original-air-date">20261015105800 +0000</episode-num>
-    <desc>Billy y Gwendoline acorralan a Dick para ayudarlos a colocar una lámpara de araña y luego tienen que localizar a algunos jabalíes que están causando el caos dentro y alrededor del castillo.</desc>
-    <icon src="https://images.pluto.tv/series/69ce30cb5228f729652cd858/tile_1775120588777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">69ce30cb5228f729652cd858</series-id>
-    <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
+    <category>Thriller</category>
   </programme>
   <programme start="20261015115100 +0000" stop="20261015124200 +0000" channel="El Mueble">
     <title>La casa de mis sueños</title>
@@ -8590,6 +8603,18 @@
     <date>19700101</date>
     <series-id system="pluto">6985aee371e7de966edf1845</series-id>
     <sub-title>Nancy y Dave</sub-title>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261016014400 +0000" stop="20261016023600 +0000" channel="El Mueble">
+    <title>La casa de mis sueños</title>
+    <live/>
+    <episode-num system="original-air-date">20261016014400 +0000</episode-num>
+    <desc>Una familia con un horario caótico desea encontrar una propiedad más espaciosa; Jonathan se pone creativo con su plan de diseño.</desc>
+    <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6985aee371e7de966edf1845</series-id>
+    <sub-title>Nadine y Greg</sub-title>
     <category>Series</category>
     <category>Home &amp; Lifestyle</category>
   </programme>
@@ -9538,22 +9563,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015091200 +0200" stop="20261015111200 +0200" channel="acontra+">
-    <title lang="es">Adiós, felicidad</title>
-    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
-    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015111200 +0200" stop="20261015125500 +0200" channel="acontra+">
-    <title lang="es">Cal (1989)</title>
-    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015125500 +0200" stop="20261015144400 +0200" channel="acontra+">
-    <title lang="es">Fuerzas especiales (2011)</title>
-    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
-    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
-  </programme>
-  <programme start="20261015144400 +0200" stop="20261015162700 +0200" channel="acontra+">
+  <programme start="20261015142700 +0200" stop="20261015162700 +0200" channel="acontra+">
     <title lang="es">Pasiones en Kenia (1988)</title>
     <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
     <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
@@ -9562,6 +9572,21 @@
     <title lang="es">Traveller (1997)</title>
     <desc lang="es">Tras morir su padre, Pat O'Hara quiere unirse a un grupo de estafadores irlandeses-americanos. | Edad: 18+</desc>
     <icon src="https://m.media-amazon.com/images/I/A1Vr2YKjJIL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015180700 +0200" stop="20261015200300 +0200" channel="acontra+">
+    <title lang="es">Vania en la calle 42 (1994)</title>
+    <desc lang="es">En los noventa, André Gregory montó unas representaciones privadas de la obra "Tío Vania" de Chéjov. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81d8v6E967L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015200300 +0200" stop="20261015214400 +0200" channel="acontra+">
+    <title lang="es">La regla del juego (1939)</title>
+    <desc lang="es">Ilustración de clásico de Jean Renoir acerca de las reglas sociales y sexuales que separan a clases. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91ZzBu2bdRL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015214400 +0200" stop="20261015231700 +0200" channel="acontra+">
+    <title lang="es">La cosecha (1994)</title>
+    <desc lang="es">En México, Charlie Pope, un guionista de cine en plena depresión, se ve envuelto en una pesadilla. | Edad: 18+</desc>
+    <icon src="https://m.media-amazon.com/images/I/91d-BH1BVlL._UR1920,1080_FMpng_.jpg"/>
   </programme>
 	<programme start="20261015002600 +0000" stop="20261015013500 +0000" channel="Clásicos atresplayer">
     <title>El Internado · Capítulo 3: El soldadito de plomo</title>
@@ -25633,45 +25658,6 @@
 			<value>7</value>
 		</rating>
 	</programme>
-  <programme start="20261015082321 +0000" stop="20261015092121 +0000" channel="Pluto TV Animales">
-    <title>Frank de la jungla: Vida de Frank en Bangkok - Parte 1</title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <episode-num system="pluto">61c066e7f30167001a6326aa</episode-num>
-    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
-    <desc>Conoceremos minuto a minuto la vida de Frank Cuesta en Bangkok, la ciudad donde vive  junto a su familia desde hace doce  años. Frank, según su esposa y amigos más cercanos, vive las 24 horas del día pendiente del teléfono.</desc>
-    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20110101</date>
-    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
-    <sub-title>Vida de Frank en Bangkok - Parte 1</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015092121 +0000" stop="20261015101921 +0000" channel="Pluto TV Animales">
-    <title>Frank de la jungla: Viaje Animal  - Parte 1</title>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <episode-num system="pluto">61c066e6f30167001a63269a</episode-num>
-    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
-    <desc>Para Frank Cuesta los insectos también son una especie de animales digna de estudio. A pesar de su tamaño, ocuparán una parte destacada de este viaje por su importancia para la supervivencia de todo el ecosistema de la selva.</desc>
-    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20110101</date>
-    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
-    <sub-title>Viaje Animal  - Parte 1</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015101921 +0000" stop="20261015111821 +0000" channel="Pluto TV Animales">
-    <title>Frank de la jungla: Osos</title>
-    <episode-num system="onscreen">S02E14</episode-num>
-    <episode-num system="pluto">61dbf26aafe81f001a22b3f7</episode-num>
-    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
-    <desc>Tailandia es uno de los pocos lugares del mundo donde vive un curioso y extraño ejemplar de oso: el Oso del Sol. Es más pequeño que el Oso Pardo y se caracteriza por tener una lengua extremadamente larga que utiliza para coger la miel de los panales.</desc>
-    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20110101</date>
-    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
-    <sub-title>Osos</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
   <programme start="20261015111821 +0000" stop="20261015121621 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Vida de Frank en Bangkok - Parte 2</title>
     <episode-num system="onscreen">S02E15</episode-num>
@@ -25682,8 +25668,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Vida de Frank en Bangkok - Parte 2</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015121621 +0000" stop="20261015131421 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Viaje Animal  - Parte 2</title>
@@ -25695,8 +25681,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Viaje Animal  - Parte 2</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015131421 +0000" stop="20261015141221 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Tribus</title>
@@ -25708,8 +25694,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Tribus</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015141221 +0000" stop="20261015150921 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Momentos inéditos</title>
@@ -25721,8 +25707,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Momentos inéditos</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015150921 +0000" stop="20261015160721 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Perdido en Costa Rica I</title>
@@ -25734,8 +25720,8 @@
     <date>20120101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Perdido en Costa Rica I</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015160721 +0000" stop="20261015170521 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Perdido en Costa Rica II</title>
@@ -25747,8 +25733,8 @@
     <date>20120101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Perdido en Costa Rica II</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015170521 +0000" stop="20261015180321 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Adiós Costa Rica y vuelta a Bangkok</title>
@@ -25760,8 +25746,8 @@
     <date>20120101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Adiós Costa Rica y vuelta a Bangkok</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015180321 +0000" stop="20261015190021 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Un Río llamado Mekong</title>
@@ -25773,8 +25759,8 @@
     <date>20120101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Un Río llamado Mekong</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015190021 +0000" stop="20261015195821 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Supervivencia en la selva</title>
@@ -25786,8 +25772,8 @@
     <date>20120101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Supervivencia en la selva</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015195821 +0000" stop="20261015205621 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Safari Animal</title>
@@ -25799,8 +25785,8 @@
     <date>20120101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Safari Animal</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015205621 +0000" stop="20261015215421 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Cocodrilos</title>
@@ -25812,8 +25798,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Cocodrilos</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015215421 +0000" stop="20261015225321 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Dragón de Komodo</title>
@@ -25825,8 +25811,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Dragón de Komodo</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015225321 +0000" stop="20261015235121 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: La selva de Bangkok</title>
@@ -25838,8 +25824,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>La selva de Bangkok</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015235121 +0000" stop="20261016005121 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Elefantes</title>
@@ -25851,8 +25837,8 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Elefantes</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261016005121 +0000" stop="20261016015021 +0000" channel="Pluto TV Animales">
     <title>Frank de la jungla: Serpientes</title>
@@ -25864,47 +25850,21 @@
     <date>20110101</date>
     <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
     <sub-title>Serpientes</sub-title>
+    <category>Series</category>
     <category>Documentary</category>
-    <category>Series</category>
   </programme>
-  <programme start="20261015080953 +0000" stop="20261015090910 +0000" channel="Pluto TV Diseño">
-    <title>Espacio Para Mejorar</title>
-    <episode-num system="onscreen">S13E01</episode-num>
-    <episode-num system="pluto">689dc04906254fd0f6e7e2c6</episode-num>
-    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
-    <desc>Dermot tuvo un viaje que recorrer con esta construcción junto a Lisa y Marc.</desc>
-    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20230101</date>
-    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
-    <sub-title>Kilmacud</sub-title>
+  <programme start="20261016015021 +0000" stop="20261016024821 +0000" channel="Pluto TV Animales">
+    <title>Frank de la jungla: Orangután</title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="pluto">61c066daf30167001a6325f3</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>El orangután es el animal más parecido a los humanos. Este simio comparte el 97% del ADN del hombre. Un malayo dijo que este animal "sólo tiene que hablar pero no para que el hombre no se ponga a trabajar".</desc>
+    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
+    <sub-title>Orangután</sub-title>
     <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261015090910 +0000" stop="20261015100820 +0000" channel="Pluto TV Diseño">
-    <title>Espacio Para Mejorar</title>
-    <episode-num system="onscreen">S13E02</episode-num>
-    <episode-num system="pluto">689dc3199017101f058e7411</episode-num>
-    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
-    <desc>Las expectativas de Laura hacia Dermot eran altas, pero llevar la construcción a la etapa inicial fue complicado debido al presupuesto ajustado.</desc>
-    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20230101</date>
-    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
-    <sub-title>Howth</sub-title>
-    <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
-  </programme>
-  <programme start="20261015100820 +0000" stop="20261015110711 +0000" channel="Pluto TV Diseño">
-    <title>Espacio Para Mejorar</title>
-    <episode-num system="onscreen">S13E03</episode-num>
-    <episode-num system="pluto">689dc31c9017101f058ed600</episode-num>
-    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
-    <desc>Paul y Hilary realmente quieren modernizar la casa, originalmente construida en los años 70, pero deben ser inteligentes con su presupuesto.</desc>
-    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20230101</date>
-    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
-    <sub-title>Blessington</sub-title>
-    <category>Series</category>
-    <category>Home &amp; Lifestyle</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015110711 +0000" stop="20261015120528 +0000" channel="Pluto TV Diseño">
     <title>Espacio Para Mejorar</title>
@@ -26033,8 +25993,8 @@
     <date>20220101</date>
     <series-id system="pluto">67b466ca96446070bdf414c8</series-id>
     <sub-title>Iman Shumpert / Heidi and Spencer Pratt / Cesar Millan</sub-title>
-    <category>Reality</category>
     <category>Series</category>
+    <category>Reality</category>
   </programme>
   <programme start="20261015202109 +0000" stop="20261015204607 +0000" channel="Pluto TV Diseño">
     <title>MTV Cribs</title>
@@ -26046,8 +26006,8 @@
     <date>20221208</date>
     <series-id system="pluto">67b466ca96446070bdf414c8</series-id>
     <sub-title>Terrence J / Jana Kramer / Carson Kressley</sub-title>
-    <category>Reality</category>
     <category>Series</category>
+    <category>Reality</category>
   </programme>
   <programme start="20261015204607 +0000" stop="20261015211046 +0000" channel="Pluto TV Diseño">
     <title>MTV Cribs</title>
@@ -26059,8 +26019,8 @@
     <date>20221215</date>
     <series-id system="pluto">67b466ca96446070bdf414c8</series-id>
     <sub-title>Jimmy O. Yang / Nev Schulman / Hannah Brown</sub-title>
-    <category>Reality</category>
     <category>Series</category>
+    <category>Reality</category>
   </programme>
   <programme start="20261015211046 +0000" stop="20261015213541 +0000" channel="Pluto TV Diseño">
     <title>MTV Cribs</title>
@@ -26072,8 +26032,8 @@
     <date>20220101</date>
     <series-id system="pluto">67b466ca96446070bdf414c8</series-id>
     <sub-title>Stas / Mario Lopez / Pauly Shore</sub-title>
-    <category>Reality</category>
     <category>Series</category>
+    <category>Reality</category>
   </programme>
   <programme start="20261015213541 +0000" stop="20261015220013 +0000" channel="Pluto TV Diseño">
     <title>MTV Cribs</title>
@@ -26085,8 +26045,8 @@
     <date>20221117</date>
     <series-id system="pluto">67b466ca96446070bdf414c8</series-id>
     <sub-title>Whitney Cummings / Dennis Rodman</sub-title>
-    <category>Reality</category>
     <category>Series</category>
+    <category>Reality</category>
   </programme>
   <programme start="20261015220013 +0000" stop="20261015225927 +0000" channel="Pluto TV Diseño">
     <title>Espacio Para Mejorar</title>
@@ -26140,10 +26100,18 @@
     <category>Series</category>
     <category>Home &amp; Lifestyle</category>
   </programme>
-  <programme start="20261015110000 +0000" stop="20261015120000 +0000" channel="Wild Earth">
-    <title>Escápate a la Naturaleza</title>
-    <desc>Baja el ritmo y sumérgete en la naturaleza con hermosas imágenes y sonidos de la vida silvestre.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1789912448_0_20260419T164246087Z_58_imageprocessorclient-tvplus-linear-74d4c47476-9297p.jpeg"/>
+  <programme start="20261016015755 +0000" stop="20261016025646 +0000" channel="Pluto TV Diseño">
+    <title>Espacio Para Mejorar</title>
+    <episode-num system="onscreen">S13E03</episode-num>
+    <episode-num system="pluto">689dc31c9017101f058ed600</episode-num>
+    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
+    <desc>Paul y Hilary realmente quieren modernizar la casa, originalmente construida en los años 70, pero deben ser inteligentes con su presupuesto.</desc>
+    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230101</date>
+    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
+    <sub-title>Blessington</sub-title>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
   </programme>
   <programme start="20261015120000 +0000" stop="20261015123000 +0000" channel="Wild Earth">
     <title>Safari+</title>
@@ -26169,6 +26137,16 @@
     <title>Safari+</title>
     <desc>Ve más allá del safari con Safari+: lo mejor de la vida salvaje.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1909928887_0_20260606T074030319Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-htdx9.jpeg"/>
+  </programme>
+  <programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="Wild Earth">
+    <title>Safari+</title>
+    <desc>Ve más allá del safari con Safari+: lo mejor de la vida salvaje.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1909928887_0_20260606T074030319Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-htdx9.jpeg"/>
+  </programme>
+  <programme start="20261015180000 +0000" stop="20261015210000 +0000" channel="Wild Earth">
+    <title>SafariLIVE Amanecer Repetición</title>
+    <desc>Si te perdiste el programa EN VIVO, ponte al día aquí con tu safari al amanecer.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1789912756_0_20260419T164246089Z_164_imageprocessorclient-tvplus-linear-74d4c47476-9297p.jpeg"/>
   </programme>
 	<programme start="20261015021000 +0200" stop="20261015023000 +0200" channel="Odisea">
     <title>¿Ciencia o suerte? T1 E4</title>
@@ -27032,39 +27010,6 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015082159 +0000" stop="20261015092259 +0000" channel="Pluto TV Historia">
-    <title>Astroturismo, sentir el universo</title>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>La contaminación lumínica amenaza con apagar las estrellas a los ojos del mundo desarrollado.</desc>
-    <icon src="https://images.pluto.tv/episodes/630ddcf7c38c53001332aaa3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20170101</date>
-    <series-id system="pluto">630dc2c8e7bfae00137f5934</series-id>
-    <category>Documentary</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261015092259 +0000" stop="20261015102559 +0000" channel="Pluto TV Historia">
-    <title>El Carnaval de las dos Orillas</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Es el Carnaval de los Indianos, una explosión para los sentidos con auténtico sabor del Caribe.</desc>
-    <icon src="https://images.pluto.tv/episodes/630ddcfac38c53001332ab78/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
-    <date>20140101</date>
-    <series-id system="pluto">630dc2c8e7bfae00137f593a</series-id>
-    <category>Documentary</category>
-    <category>Movie</category>
-  </programme>
-  <programme start="20261015102559 +0000" stop="20261015112659 +0000" channel="Pluto TV Historia">
-    <title>Programando la Nación</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">5f97f018405ab3001be91bc3</episode-num>
-    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
-    <desc>La historia de los mensajes subliminales en América.</desc>
-    <icon src="https://images.pluto.tv/series/5f97f017405ab3001be91baf/tile_1769107681193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20110101</date>
-    <series-id system="pluto">5f97f017405ab3001be91baf</series-id>
-    <sub-title>Mensajes subliminales</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
   <programme start="20261015112659 +0000" stop="20261015122659 +0000" channel="Pluto TV Historia">
     <title>Programando la Nación</title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -27075,8 +27020,8 @@
     <date>20110101</date>
     <series-id system="pluto">5f97f017405ab3001be91baf</series-id>
     <sub-title>Prácticas en la Guerra del Terror</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015122659 +0000" stop="20261015132959 +0000" channel="Pluto TV Historia">
     <title>Gaudí en la Catedral de Mallorca. El Obispo, el Arquitecto y el Baldaquino</title>
@@ -27107,8 +27052,8 @@
     <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
     <date>20030518</date>
     <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015161059 +0000" stop="20261015175159 +0000" channel="Pluto TV Historia">
     <title>Hitler: El ascenso del mal - Parte 2</title>
@@ -27119,8 +27064,8 @@
     <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
     <date>20030518</date>
     <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015175159 +0000" stop="20261015184259 +0000" channel="Pluto TV Historia">
     <title>Oh, Dior!</title>
@@ -27152,8 +27097,8 @@
     <date>19770101</date>
     <series-id system="pluto">61cc2c2612f2e7001ab8e4d2</series-id>
     <sub-title>Parte I</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015205659 +0000" stop="20261015223659 +0000" channel="Pluto TV Historia">
     <title>Hitler, La historia jamás contada: Parte II</title>
@@ -27165,8 +27110,8 @@
     <date>19770101</date>
     <series-id system="pluto">61cc2c2612f2e7001ab8e4d2</series-id>
     <sub-title>Parte II</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015223659 +0000" stop="20261015233253 +0000" channel="Pluto TV Historia">
     <title>Memoria Negra</title>
@@ -27204,6 +27149,19 @@
     <date>20250101</date>
     <series-id system="pluto">5f7c4d1db06bf7001adb2b4d</series-id>
     <sub-title>La Descuartizada de Sant Feliu</sub-title>
+    <category>Drama</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261016014214 +0000" stop="20261016024513 +0000" channel="Pluto TV Historia">
+    <title>Memoria Negra</title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <episode-num system="pluto">6a91494958918556e6caf7d7</episode-num>
+    <episode-num system="original-air-date">20250101000000 +0000</episode-num>
+    <desc>El 1 de julio del año 1884 en diferentes calles del centro de Palma aparecerían los restos descuartizados de una persona.</desc>
+    <icon src="https://images.pluto.tv/series/5f7c4d1db06bf7001adb2b4d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20250101</date>
+    <series-id system="pluto">5f7c4d1db06bf7001adb2b4d</series-id>
+    <sub-title>El Fraile Descuartizado</sub-title>
     <category>Drama</category>
     <category>Series</category>
   </programme>
@@ -27900,58 +27858,6 @@
 			<value>7.5/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015081011 +0000" stop="20261015090911 +0000" channel="Ciudadanos por el mundo">
-    <title>Aragoneses por el mundo: Filipinas</title>
-    <episode-num system="onscreen">S14E194</episode-num>
-    <episode-num system="pluto">64c1d6adab3edd00132ad1a9</episode-num>
-    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
-    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
-    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20190101</date>
-    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
-    <sub-title>Filipinas</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015090911 +0000" stop="20261015100811 +0000" channel="Ciudadanos por el mundo">
-    <title>Aragoneses por el mundo: Hamburgo</title>
-    <episode-num system="onscreen">S16E228</episode-num>
-    <episode-num system="pluto">64c8ee2cd264b00013504fea</episode-num>
-    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
-    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
-    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20190101</date>
-    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
-    <sub-title>Hamburgo</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015100811 +0000" stop="20261015105711 +0000" channel="Ciudadanos por el mundo">
-    <title>Aragoneses por el mundo: Alemania</title>
-    <episode-num system="onscreen">S11E151</episode-num>
-    <episode-num system="pluto">64c38ed1a1659900131e0905</episode-num>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
-    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20180101</date>
-    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
-    <sub-title>Alemania</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015105711 +0000" stop="20261015115311 +0000" channel="Ciudadanos por el mundo">
-    <title>Aragoneses por el mundo: Gotemburgo (Suecia)</title>
-    <episode-num system="onscreen">S13E189</episode-num>
-    <episode-num system="pluto">64c1ccd1ba8eeb00135bcadd</episode-num>
-    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
-    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
-    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20180101</date>
-    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
-    <sub-title>Gotemburgo (Suecia)</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
   <programme start="20261015115311 +0000" stop="20261015125411 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Curitiba (Brasil)</title>
     <episode-num system="onscreen">S17E240</episode-num>
@@ -27962,8 +27868,8 @@
     <date>20200101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Curitiba (Brasil)</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015125411 +0000" stop="20261015133811 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: México</title>
@@ -27975,8 +27881,8 @@
     <date>20180101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>México</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015133811 +0000" stop="20261015144111 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Luxemburgo</title>
@@ -27988,8 +27894,8 @@
     <date>20210101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Luxemburgo</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015144111 +0000" stop="20261015153811 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Eslovenia y Croacia</title>
@@ -28001,8 +27907,8 @@
     <date>20190101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Eslovenia y Croacia</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015153811 +0000" stop="20261015164311 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Noruega</title>
@@ -28014,8 +27920,8 @@
     <date>20180101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Noruega</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015164311 +0000" stop="20261015174311 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Vancouver</title>
@@ -28027,8 +27933,8 @@
     <date>20180101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Vancouver</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015174311 +0000" stop="20261015184211 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Toulouse</title>
@@ -28040,8 +27946,8 @@
     <date>20200101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Toulouse</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015184211 +0000" stop="20261015194511 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Bogotá (Colombia)</title>
@@ -28053,8 +27959,8 @@
     <date>20190101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Bogotá (Colombia)</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015194511 +0000" stop="20261015204611 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Región de Alsacia (Francia)</title>
@@ -28066,8 +27972,8 @@
     <date>20190101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Región de Alsacia (Francia)</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015204611 +0000" stop="20261015214911 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Lisboa</title>
@@ -28079,8 +27985,8 @@
     <date>20210101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Lisboa</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015214911 +0000" stop="20261015224611 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Ottawa y Montreal (Canadá)</title>
@@ -28092,8 +27998,8 @@
     <date>20190101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Ottawa y Montreal (Canadá)</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015224611 +0000" stop="20261015235111 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Tailandia</title>
@@ -28105,8 +28011,8 @@
     <date>20180101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Tailandia</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261015235111 +0000" stop="20261016005611 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Zurich</title>
@@ -28118,8 +28024,8 @@
     <date>20210101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Zurich</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20261016005611 +0000" stop="20261016015511 +0000" channel="Ciudadanos por el mundo">
     <title>Aragoneses por el mundo: Roma</title>
@@ -28131,8 +28037,21 @@
     <date>20190101</date>
     <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
     <sub-title>Roma</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20261016015511 +0000" stop="20261016025511 +0000" channel="Ciudadanos por el mundo">
+    <title>Aragoneses por el mundo: Riviera Maya</title>
+    <episode-num system="onscreen">S19E259</episode-num>
+    <episode-num system="pluto">64c91695d0d0320013563121</episode-num>
+    <episode-num system="original-air-date">20210101000000 +0000</episode-num>
+    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20210101</date>
+    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
+    <sub-title>Riviera Maya</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
   </programme>
 	<programme start="20261015001600 +0200" stop="20261015004300 +0200" channel="Viajes y Sabores">
     <title>El Mundo de Chuck T1</title>
@@ -29107,58 +29026,6 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-  <programme start="20261015081459 +0000" stop="20261015090159 +0000" channel="Pluto TV Cocina">
-    <title>A Bocados: A Bocados 14</title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <episode-num system="pluto">5f460d8db9a18c001a4b89c6</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Bacalao Ajoarriero A La Navarra. Luis Arbiol, Ultramarinos Gregorio Martin De La Calle Artekale De Bilbao. Seccion ¿Truco O Reto?: Escala Scoville</desc>
-    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20170101</date>
-    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
-    <sub-title>A Bocados 14</sub-title>
-    <category>Food &amp; Cooking</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015090159 +0000" stop="20261015094759 +0000" channel="Pluto TV Cocina">
-    <title>A Bocados: A Bocados 15</title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <episode-num system="pluto">5f460d84b9a18c001a4b89ad</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Berenjenas rellenas de picadillo. Alberto agirrebeitia enseñando berenjenas ecologicas del caserio lurkoi. Jon ander, carnicero del mercado de la ribera, sobre carnes para picadillo.</desc>
-    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20170101</date>
-    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
-    <sub-title>A Bocados 15</sub-title>
-    <category>Food &amp; Cooking</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015094759 +0000" stop="20261015103459 +0000" channel="Pluto TV Cocina">
-    <title>A Bocados: A Bocados 16</title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <episode-num system="pluto">5f460d84b9a18c001a4b89b2</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Receta: tomates con tartar de bonito y crema de aguacate. Seccion 'truco reto': concentracion licopeno por 100%. Lechugas batavia. Xabi, cooperativa barrenetxe (markina).</desc>
-    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20170101</date>
-    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
-    <sub-title>A Bocados 16</sub-title>
-    <category>Food &amp; Cooking</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015103459 +0000" stop="20261015111759 +0000" channel="Pluto TV Cocina">
-    <title>A Bocados: A Bocados 20</title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <episode-num system="pluto">5f460d5fb9a18c001a4b892e</episode-num>
-    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
-    <desc>Receta: Euskal Txerri con manzana y salsa de sidra. Granja "Maskarada" de engorde de Euskal Txerri. Ander Ansorena y Maria Jesus Azpiroz elaborando chorizos y salchichones de Euskal Txerri.</desc>
-    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20170101</date>
-    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
-    <sub-title>A Bocados 20</sub-title>
-    <category>Food &amp; Cooking</category>
-    <category>Series</category>
-  </programme>
   <programme start="20261015111759 +0000" stop="20261015120559 +0000" channel="Pluto TV Cocina">
     <title>A Bocados: A Bocados 21</title>
     <episode-num system="onscreen">S01E21</episode-num>
@@ -29169,8 +29036,8 @@
     <date>20170101</date>
     <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
     <sub-title>A Bocados 21</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015120559 +0000" stop="20261015125159 +0000" channel="Pluto TV Cocina">
     <title>A Bocados: A Bocados 22</title>
@@ -29182,8 +29049,8 @@
     <date>20170101</date>
     <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
     <sub-title>A Bocados 22</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015125159 +0000" stop="20261015133859 +0000" channel="Pluto TV Cocina">
     <title>A Bocados: A Bocados 23</title>
@@ -29195,8 +29062,8 @@
     <date>20170101</date>
     <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
     <sub-title>A Bocados 23</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015133859 +0000" stop="20261015142559 +0000" channel="Pluto TV Cocina">
     <title>A Bocados: A Bocados 54</title>
@@ -29208,8 +29075,8 @@
     <date>20170101</date>
     <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
     <sub-title>A Bocados 54</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015142559 +0000" stop="20261015151159 +0000" channel="Pluto TV Cocina">
     <title>A Bocados: A Bocados 56</title>
@@ -29221,8 +29088,8 @@
     <date>20170101</date>
     <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
     <sub-title>A Bocados 56</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015151159 +0000" stop="20261015155927 +0000" channel="Pluto TV Cocina">
     <title>A Bocados</title>
@@ -29344,8 +29211,8 @@
     <date>20210114</date>
     <series-id system="pluto">651bffbea78f0d001a4477c1</series-id>
     <sub-title>Peruana Bonita</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015214715 +0000" stop="20261015220715 +0000" channel="Pluto TV Cocina">
     <title>Ana Avellana: Para la familia y los amigos</title>
@@ -29357,8 +29224,8 @@
     <date>20210114</date>
     <series-id system="pluto">651bffbea78f0d001a4477c1</series-id>
     <sub-title>Para la familia y los amigos</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015220715 +0000" stop="20261015224315 +0000" channel="Pluto TV Cocina">
     <title>Robin Food: Episode 91</title>
@@ -29370,8 +29237,8 @@
     <date>20130101</date>
     <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
     <sub-title>Episode 91</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015224315 +0000" stop="20261015231715 +0000" channel="Pluto TV Cocina">
     <title>Robin Food: Episode 92</title>
@@ -29383,8 +29250,8 @@
     <date>20130101</date>
     <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
     <sub-title>Episode 92</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015231715 +0000" stop="20261015235315 +0000" channel="Pluto TV Cocina">
     <title>Robin Food: Episode 93</title>
@@ -29396,8 +29263,8 @@
     <date>20130101</date>
     <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
     <sub-title>Episode 93</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261015235315 +0000" stop="20261016002915 +0000" channel="Pluto TV Cocina">
     <title>Robin Food: Episode 94</title>
@@ -29409,8 +29276,8 @@
     <date>20130101</date>
     <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
     <sub-title>Episode 94</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
   <programme start="20261016002915 +0000" stop="20261016010715 +0000" channel="Pluto TV Cocina">
     <title>Robin Food: Episode 95</title>
@@ -29422,8 +29289,34 @@
     <date>20130101</date>
     <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
     <sub-title>Episode 95</sub-title>
-    <category>Food &amp; Cooking</category>
     <category>Series</category>
+    <category>Food &amp; Cooking</category>
+  </programme>
+  <programme start="20261016010715 +0000" stop="20261016013815 +0000" channel="Pluto TV Cocina">
+    <title>Robin Food: Episode 96</title>
+    <episode-num system="onscreen">S02E96</episode-num>
+    <episode-num system="pluto">5f7eee6b72d139001a18ed8f</episode-num>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Invitado: ignacio ramírez "el pichorradicas". plato del día: menestra de "pichorradicas"</desc>
+    <icon src="https://images.pluto.tv/series/5f7eee6072d139001a18ec11/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20130101</date>
+    <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
+    <sub-title>Episode 96</sub-title>
+    <category>Series</category>
+    <category>Food &amp; Cooking</category>
+  </programme>
+  <programme start="20261016013815 +0000" stop="20261016021315 +0000" channel="Pluto TV Cocina">
+    <title>Robin Food: Episode 97</title>
+    <episode-num system="onscreen">S02E97</episode-num>
+    <episode-num system="pluto">5f7eee6572d139001a18ed43</episode-num>
+    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
+    <desc>Invitado: martín berasategui. platos del día: paletilla asada con gratén de acelgas. cóctel txiruliru</desc>
+    <icon src="https://images.pluto.tv/series/5f7eee6072d139001a18ec11/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20130101</date>
+    <series-id system="pluto">5f7eee6072d139001a18ec11</series-id>
+    <sub-title>Episode 97</sub-title>
+    <category>Series</category>
+    <category>Food &amp; Cooking</category>
   </programme>
 	<programme start="20261015020000 +0200" stop="20261015022800 +0200" channel="AMC Living">
     <title>Reforma y Alquila T2 E2</title>
@@ -30284,58 +30177,6 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015081841 +0000" stop="20261015090841 +0000" channel="Top Gear">
-    <title>Top Gear: Temporada 21, Episodio 4</title>
-    <episode-num system="onscreen">S21E04</episode-num>
-    <episode-num system="pluto">65364b512cf13100083e911f</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Jeremy está en Italia para celebrar el regreso del reconocido Alfa Romeo 8C. Richard está en las dunas de Abu Dhabi para conducir una nueva máquina de seis ruedas de Mercedes Benz y James hace una extraña visita a la pista de pruebas.</desc>
-    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20140101</date>
-    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
-    <sub-title>Temporada 21, Episodio 4</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015090841 +0000" stop="20261015095841 +0000" channel="Top Gear">
-    <title>Top Gear: Temporada 21, Episodio 5</title>
-    <episode-num system="onscreen">S21E05</episode-num>
-    <episode-num system="pluto">65364b90295b840008a6af58</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Richard Hammond está en Abu Dhabi para conducir un nuevo híbrido deportivo de Porsche, el 918, y hace pruebas para ver si tiene lo necesario para vencer al hipercoche híbrido de McLaren, el P1.</desc>
-    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20140101</date>
-    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
-    <sub-title>Temporada 21, Episodio 5</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015095841 +0000" stop="20261015104841 +0000" channel="Top Gear">
-    <title>Top Gear: Temporada 21, Especial Birmania: Parte 1</title>
-    <episode-num system="onscreen">S21E06</episode-num>
-    <episode-num system="pluto">65364baecf34940008fa1d6c</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Jeremy Clarkson, Richard Hammond y James May se embarcan en un épico viaje a Burma; cuente con encontrar paisajes hermosos, la adversidad habitual, el funcionamiento incorrecto continuo y las discusiones importantes entre los tres anfitriones.</desc>
-    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20140101</date>
-    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
-    <sub-title>Temporada 21, Especial Birmania: Parte 1</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme>
-  <programme start="20261015104841 +0000" stop="20261015113741 +0000" channel="Top Gear">
-    <title>Top Gear: Temporada 21, Especial Birmania: Parte 2</title>
-    <episode-num system="onscreen">S21E07</episode-num>
-    <episode-num system="pluto">65364bc3045c3d00085471ff</episode-num>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Jeremy Clarkson, Richard Hammond, y James May continuan su viaje en tres camiones antiguos que apenas funcionan, dirigiéndonos al desafío final: construir un puente sobre el río Kwai, en Tailandia.</desc>
-    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20140101</date>
-    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
-    <sub-title>Temporada 21, Especial Birmania: Parte 2</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme>
   <programme start="20261015113741 +0000" stop="20261015124841 +0000" channel="Top Gear">
     <title>Top Gear Specials</title>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -30346,8 +30187,8 @@
     <date>20150112</date>
     <series-id system="pluto">6aba35dc8ce7aa09324e6b8e</series-id>
     <sub-title>Top Gear: Especial sobre Patagonia - Episodio 1</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme start="20261015124841 +0000" stop="20261015140028 +0000" channel="Top Gear">
     <title>Top Gear Specials</title>
@@ -30359,8 +30200,8 @@
     <date>20150119</date>
     <series-id system="pluto">6aba35dc8ce7aa09324e6b8e</series-id>
     <sub-title>Top Gear: Especial sobre Patagonia - Episodio 2</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme start="20261015140028 +0000" stop="20261015144928 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 1</title>
@@ -30372,8 +30213,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 1</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015144928 +0000" stop="20261015153628 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 2</title>
@@ -30385,8 +30226,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 2</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015153628 +0000" stop="20261015162628 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 3</title>
@@ -30398,8 +30239,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 3</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015162628 +0000" stop="20261015171628 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 4</title>
@@ -30411,8 +30252,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 4</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015171628 +0000" stop="20261015180628 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 5</title>
@@ -30424,8 +30265,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 5</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015180628 +0000" stop="20261015185528 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 6</title>
@@ -30437,8 +30278,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 6</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015185528 +0000" stop="20261015194528 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 22, Episodio 7</title>
@@ -30450,8 +30291,8 @@
     <date>20150101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 22, Episodio 7</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015194528 +0000" stop="20261015204428 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 23, Episodio 1</title>
@@ -30463,8 +30304,8 @@
     <date>20160101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 23, Episodio 1</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015204428 +0000" stop="20261015214328 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 23, Episodio 2</title>
@@ -30476,8 +30317,8 @@
     <date>20160101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 23, Episodio 2</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015214328 +0000" stop="20261015224228 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 23, Episodio 3</title>
@@ -30489,8 +30330,8 @@
     <date>20160101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 23, Episodio 3</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015224228 +0000" stop="20261015234228 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 23, Episodio 4</title>
@@ -30502,8 +30343,8 @@
     <date>20160101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 23, Episodio 4</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261015234228 +0000" stop="20261016004028 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 23, Episodio 5</title>
@@ -30515,8 +30356,8 @@
     <date>20160101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 23, Episodio 5</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme>
   <programme start="20261016004028 +0000" stop="20261016014028 +0000" channel="Top Gear">
     <title>Top Gear: Temporada 23, Episodio 6</title>
@@ -30528,8 +30369,21 @@
     <date>20160101</date>
     <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
     <sub-title>Temporada 23, Episodio 6</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261016014028 +0000" stop="20261016025028 +0000" channel="Top Gear">
+    <title>Top Gear: Temporada 24, Episodio 1</title>
+    <episode-num system="onscreen">S24E01</episode-num>
+    <episode-num system="pluto">65364e41cf34940008fa2256</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Matt LeBlanc, Chris Harris y Rory Reid vuelven en la 24º temporada de Top Gear. El primer episodio presenta al impresionante y ultraexclusivo Ferrari FXX K, probado al máximo por Chris Harris en el circuito de Daytona en Florida.</desc>
+    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
+    <sub-title>Temporada 24, Episodio 1</sub-title>
+    <category>Series</category>
+    <category>Sports</category>
   </programme>
 	<programme start="20261015062300 +0200" stop="20261015070800 +0200" channel="Discovery">
     <title>Joyas sobre ruedas T22 · Miata</title>
@@ -55033,6 +54887,510 @@
 			<value>7.5/10</value>
 		</star-rating>
 	</programme>
+  <programme start="20261015084134 +0000" stop="20261015104434 +0000" channel="Pluto TV Cine Comedia">
+    <title>Mi casa en París</title>
+    <episode-num system="original-air-date">20150807000000 +0000</episode-num>
+    <desc>Mathias, un desventurado neoyorquino sin esposa, sin hijos y sin un céntimo, hereda de su padre, con quien no se hablaba, una enorme en casa en París, de la que quiere deshacerse lo antes posible.</desc>
+    <icon src="https://images.pluto.tv/episodes/60d0438028f1d30013ed3e46/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20150807</date>
+    <series-id system="pluto">60d0437e28f1d30013ed3e40</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015075151 +0000" stop="20261015094334 +0000" channel="Pluto TV Cine Comedias Románticas">
+    <title>Mia Sarah</title>
+    <episode-num system="original-air-date">20061215000000 +0000</episode-num>
+    <desc>Samuel y su abuelo Paul crean planes para repeler al último de una larga lista de psicólogos.</desc>
+    <icon src="https://images.pluto.tv/episodes/6646267ca086180013490df9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20061215</date>
+    <series-id system="pluto">6646267ba086180013490dd8</series-id>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261015094334 +0000" stop="20261015112434 +0000" channel="Pluto TV Cine Comedias Románticas">
+    <title>3 Times A Charm</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Emma siempre ha hecho lo correcto ... hasta que se enamaora de un flechazo y este le pide que le ayude a engañar con el fin de salvar su beca de fútbol.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f6316c1ddf1b7001a80d277/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20110101</date>
+    <series-id system="pluto">5f6316c0ddf1b7001a80d26f</series-id>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261015072443 +0000" stop="20261015094843 +0000" channel="Pluto TV Cine Romántico">
+    <title>La señorita Julia</title>
+    <episode-num system="original-air-date">20141127000000 +0000</episode-num>
+    <desc>Una noche de verano en una mansión en el campo irlandés en 1880. La película explora la lucha de poder entre una joven aristócrata y el criado de su padre.</desc>
+    <icon src="https://images.pluto.tv/episodes/60d0437d28f1d30013ed3d7f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20141127</date>
+    <series-id system="pluto">60d0437c28f1d30013ed3d79</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015094843 +0000" stop="20261015114343 +0000" channel="Pluto TV Cine Romántico">
+    <title>En tránsito</title>
+    <episode-num system="original-air-date">20180615000000 +0000</episode-num>
+    <desc>Segunda Guerra Mundial. En Marsella, refugiados de toda Europa embarcan rumbo a América, huyendo de la ocupación nazi. Entre ellos, el joven alemán Georg, suplanta la identidad de un escritor para utilizar su visado, que le garantiza refugio en México.</desc>
+    <icon src="https://images.pluto.tv/episodes/60d2d7cdfad1f80013b32b9e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20180615</date>
+    <series-id system="pluto">60d2d7cdfad1f80013b32b98</series-id>
+    <category>Biographical Drama</category>
+    <category>Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015075455 +0000" stop="20261015102055 +0000" channel="Pluto TV Cine Drama">
+    <title>Nuestra hermana pequeña</title>
+    <episode-num system="original-air-date">20160323000000 +0000</episode-num>
+    <desc>Nuestra hermana pequeña</desc>
+    <icon src="https://images.pluto.tv/episodes/60d0439028f1d30013ed424f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20160323</date>
+    <series-id system="pluto">60d0438f28f1d30013ed4249</series-id>
+    <category>Drama</category>
+    <category>Foreign Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015074823 +0000" stop="20261015093723 +0000" channel="Pluto TV Cine Clásico">
+    <title>La promesa verde: La tierra prometida</title>
+    <episode-num system="original-air-date">19490101000000 +0000</episode-num>
+    <desc>El anciano viudo Matthews, que ha vivido toda su vida como agricultor, trasladó a su familia y a sus cuatro hijos adolescentes a una granja recién comprada en Millwood.</desc>
+    <icon src="https://images.pluto.tv/episodes/615eaae874755c001a4ca294/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19490101</date>
+    <series-id system="pluto">615eaae774755c001a4ca28e</series-id>
+    <category>Biographical Drama</category>
+    <category>Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015093723 +0000" stop="20261015110723 +0000" channel="Pluto TV Cine Clásico">
+    <title>El enemigo público</title>
+    <episode-num system="original-air-date">19310101000000 +0000</episode-num>
+    <desc>Un criminal de poca monta va haciéndose un nombre en los bajos fondos de Chicago gracias a la ley seca.</desc>
+    <icon src="https://images.pluto.tv/episodes/636e37dc36d64a0014593df8/poster_1771859827334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19310101</date>
+    <series-id system="pluto">636e37db36d64a0014593df1</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015084644 +0000" stop="20261015101525 +0000" channel="Pluto TV Cine Estelar">
+    <title>Salto al vacío</title>
+    <episode-num system="original-air-date">19950302000000 +0000</episode-num>
+    <desc>Alex es una chica de 20 años que se hace cargo de la manutención de su familia con el tráfico ilegal de armas. Es la única chica en un mundo de hombres, dividida entre la necesidad de encontrar el amor y una vida basada en la violencia.</desc>
+    <icon src="https://images.pluto.tv/episodes/6aa3d121763ed26aa48a21ff/poster_1789120803116.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19950302</date>
+    <series-id system="pluto">6aa3d120763ed26aa48a21dc</series-id>
+    <category>Independent Drama</category>
+    <category>Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015101525 +0000" stop="20261015115825 +0000" channel="Pluto TV Cine Estelar">
+    <title>Nunca es tarde para enamorarse</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20080101</date>
+    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
+    <category>African-American Romance</category>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme start="20261015082200 +0000" stop="20261015095841 +0000" channel="Pluto TV Cine Acción">
+    <title>CAT. 8</title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="pluto">6a281f3c7918fece01133733</episode-num>
+    <episode-num system="original-air-date">20130209000000 +0000</episode-num>
+    <desc>Para sorpresa del mundo, el sol libera una gigantesca eyección de masa coronal.</desc>
+    <icon src="https://images.pluto.tv/series/6a281f3b7918fece01133712/tile_1781014332633.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20130209</date>
+    <series-id system="pluto">6a281f3b7918fece01133712</series-id>
+    <sub-title>Segunda parte</sub-title>
+    <category>Adventure</category>
+    <category>Series</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261015095841 +0000" stop="20261015112801 +0000" channel="Pluto TV Cine Acción">
+    <title>Monter's Battlefield</title>
+    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
+    <desc>Ye Qin, la prometida del rey soldado Qin Yang, murió trágicamente frente a una bestia gigante desconocida. Gu Ping lo invitó a participar en la investigación de Ye Qin durante su vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/66a754722fca060013122bd5/poster_1769189762316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20230101</date>
+    <series-id system="pluto">66a754702fca060013122bb6</series-id>
+    <category>Foreign Action &amp; Adventure</category>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme start="20261015082730 +0000" stop="20261015102259 +0000" channel="Pluto TV Western">
+    <title>Descanse en paz (Requiescant)</title>
+    <episode-num system="original-air-date">19670310000000 +0000</episode-num>
+    <desc>En México, un niño que escapó de la masacre familiar es criado por un pastor evangélico hasta que, una vez que se ha convertido en un hábil pistolero, busca su venganza, encontrando a su hermana y adhiriéndose a los ideales de la Revolución.</desc>
+    <icon src="https://images.pluto.tv/episodes/6638f348af79c700138e6ad5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>19670310</date>
+    <series-id system="pluto">6638f346af79c700138e6ab5</series-id>
+    <category>Western</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015075700 +0000" stop="20261015094400 +0000" channel="Poirot y Miss Marple">
+    <title>Agatha Christie: Poirot ES: Después del funeral</title>
+    <episode-num system="onscreen">S10E1003</episode-num>
+    <episode-num system="pluto">64886f5c93485d0013861e1e</episode-num>
+    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
+    <desc>Los servicios de Hércules Poirot son contratados para investigar la muerte de Richard Abernethie, patriarca de la familia. Un cambio en su testamento y el reparto de la fortuna parecen ser la clave.</desc>
+    <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1786012561886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20060101</date>
+    <series-id system="pluto">648192f0662d03001b575fa0</series-id>
+    <sub-title>Después del funeral</sub-title>
+    <category>Thriller</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015094400 +0000" stop="20261015113200 +0000" channel="Poirot y Miss Marple">
+    <title>Agatha Christie: Poirot ES: Poirot. Pleamares de la vida</title>
+    <episode-num system="onscreen">S10E1004</episode-num>
+    <episode-num system="pluto">64886f7993485d001386268e</episode-num>
+    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
+    <desc>Después de que Gordon Cloade muriese en una explosión sin dejar rastro, su joven viuda recibe toda su fortuna. Pero el hermano de ésta se niega a compartir la herencia con la familia del fallecido.</desc>
+    <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1786012561886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20060101</date>
+    <series-id system="pluto">648192f0662d03001b575fa0</series-id>
+    <sub-title>Poirot. Pleamares de la vida</sub-title>
+    <category>Thriller</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015084600 +0000" stop="20261015093800 +0000" channel="El Mueble">
+    <title>Flipping Virgins</title>
+    <live/>
+    <episode-num system="original-air-date">20261015084600 +0000</episode-num>
+    <desc>Madre e hija se enfrentan a su primera reforma con el objetivo de donar los beneficios a una causa muy especial: los niños en edad escolar de su Nigeria natal. Egypt las ayudará a cerrar la compra de una propiedad que parece muy prometedora.</desc>
+    <icon src="https://images.pluto.tv/series/69f085833312e3048e086673/tile_1777370500164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">69f085833312e3048e086673</series-id>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015093800 +0000" stop="20261015100400 +0000" channel="El Mueble">
+    <title>S.O.S. Jardines</title>
+    <live/>
+    <episode-num system="original-air-date">20261015093800 +0000</episode-num>
+    <desc>Para darles un espacio de vida adicional a Ali, Hana y sus dos hijos, Brian y Sarah convierten un antiguo garaje en un lugar de reunión de música y arte para niños.</desc>
+    <icon src="https://images.pluto.tv/series/6944039663f946a2ce49a175/tile_1766065102598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6944039663f946a2ce49a175</series-id>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015100400 +0000" stop="20261015105800 +0000" channel="El Mueble">
+    <title>A bocados verano</title>
+    <live/>
+    <episode-num system="original-air-date">20261015100400 +0000</episode-num>
+    <desc>El cocinero Ander González y la nutricionista Gabriela Uriarte nos proponen una receta de filetes rusos rellenos. Además, nos cuentan cómo mejorar nuestra alimentación y estilo de vida.</desc>
+    <icon src="https://images.pluto.tv/series/6a1fdfb6dee9a631d02ed1db/tile_1780473783634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6a1fdfb6dee9a631d02ed1db</series-id>
+    <sub-title>Filetes rusos rellenos - Bilbao</sub-title>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015105800 +0000" stop="20261015115100 +0000" channel="El Mueble">
+    <title>Nuestro propio castillo DIY</title>
+    <live/>
+    <episode-num system="original-air-date">20261015105800 +0000</episode-num>
+    <desc>Billy y Gwendoline acorralan a Dick para ayudarlos a colocar una lámpara de araña y luego tienen que localizar a algunos jabalíes que están causando el caos dentro y alrededor del castillo.</desc>
+    <icon src="https://images.pluto.tv/series/69ce30cb5228f729652cd858/tile_1775120588777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">69ce30cb5228f729652cd858</series-id>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015091200 +0200" stop="20261015111200 +0200" channel="acontra+">
+    <title lang="es">Adiós, felicidad</title>
+    <desc lang="es">Cuatro hermanos se reencuentran por última vez para rendirle un último homenaje a su padre. | Edad: 7+</desc>
+    <icon src="https://m.media-amazon.com/images/I/A1fX27r6b4L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015111200 +0200" stop="20261015125500 +0200" channel="acontra+">
+    <title lang="es">Cal (1989)</title>
+    <desc lang="es">En Irlanda del Norte, un joven católico es sospechoso en el asesinato de un policía protestante. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81T3UBe8n8L._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015125500 +0200" stop="20261015144400 +0200" channel="acontra+">
+    <title lang="es">Fuerzas especiales (2011)</title>
+    <desc lang="es">Afganistán, una periodista es capturada por los Talibanes. | Edad: 16+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81wD-+H9LpL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015144400 +0200" stop="20261015162700 +0200" channel="acontra+">
+    <title lang="es">Pasiones en Kenia (1988)</title>
+    <desc lang="es">Una colonia británica en Kenia se escandaliza por una relación adúltera que conduce a un homicidio. | Edad: 13+</desc>
+    <icon src="https://m.media-amazon.com/images/I/81FV1QRGKuL._UR1920,1080_FMpng_.jpg"/>
+  </programme>
+  <programme start="20261015082321 +0000" stop="20261015092121 +0000" channel="Pluto TV Animales">
+    <title>Frank de la jungla: Vida de Frank en Bangkok - Parte 1</title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <episode-num system="pluto">61c066e7f30167001a6326aa</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Conoceremos minuto a minuto la vida de Frank Cuesta en Bangkok, la ciudad donde vive  junto a su familia desde hace doce  años. Frank, según su esposa y amigos más cercanos, vive las 24 horas del día pendiente del teléfono.</desc>
+    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
+    <sub-title>Vida de Frank en Bangkok - Parte 1</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015092121 +0000" stop="20261015101921 +0000" channel="Pluto TV Animales">
+    <title>Frank de la jungla: Viaje Animal  - Parte 1</title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <episode-num system="pluto">61c066e6f30167001a63269a</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Para Frank Cuesta los insectos también son una especie de animales digna de estudio. A pesar de su tamaño, ocuparán una parte destacada de este viaje por su importancia para la supervivencia de todo el ecosistema de la selva.</desc>
+    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
+    <sub-title>Viaje Animal  - Parte 1</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015101921 +0000" stop="20261015111821 +0000" channel="Pluto TV Animales">
+    <title>Frank de la jungla: Osos</title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <episode-num system="pluto">61dbf26aafe81f001a22b3f7</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Tailandia es uno de los pocos lugares del mundo donde vive un curioso y extraño ejemplar de oso: el Oso del Sol. Es más pequeño que el Oso Pardo y se caracteriza por tener una lengua extremadamente larga que utiliza para coger la miel de los panales.</desc>
+    <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">61c066d8f30167001a6325bf</series-id>
+    <sub-title>Osos</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015080953 +0000" stop="20261015090910 +0000" channel="Pluto TV Diseño">
+    <title>Espacio Para Mejorar</title>
+    <episode-num system="onscreen">S13E01</episode-num>
+    <episode-num system="pluto">689dc04906254fd0f6e7e2c6</episode-num>
+    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
+    <desc>Dermot tuvo un viaje que recorrer con esta construcción junto a Lisa y Marc.</desc>
+    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230101</date>
+    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
+    <sub-title>Kilmacud</sub-title>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015090910 +0000" stop="20261015100820 +0000" channel="Pluto TV Diseño">
+    <title>Espacio Para Mejorar</title>
+    <episode-num system="onscreen">S13E02</episode-num>
+    <episode-num system="pluto">689dc3199017101f058e7411</episode-num>
+    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
+    <desc>Las expectativas de Laura hacia Dermot eran altas, pero llevar la construcción a la etapa inicial fue complicado debido al presupuesto ajustado.</desc>
+    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230101</date>
+    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
+    <sub-title>Howth</sub-title>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015100820 +0000" stop="20261015110711 +0000" channel="Pluto TV Diseño">
+    <title>Espacio Para Mejorar</title>
+    <episode-num system="onscreen">S13E03</episode-num>
+    <episode-num system="pluto">689dc31c9017101f058ed600</episode-num>
+    <episode-num system="original-air-date">20230101000000 +0000</episode-num>
+    <desc>Paul y Hilary realmente quieren modernizar la casa, originalmente construida en los años 70, pero deben ser inteligentes con su presupuesto.</desc>
+    <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1790722807808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20230101</date>
+    <series-id system="pluto">689dbaa8fd92ab53e8e218d4</series-id>
+    <sub-title>Blessington</sub-title>
+    <category>Series</category>
+    <category>Home &amp; Lifestyle</category>
+  </programme>
+  <programme start="20261015110000 +0000" stop="20261015120000 +0000" channel="Wild Earth">
+    <title>Escápate a la Naturaleza</title>
+    <desc>Baja el ritmo y sumérgete en la naturaleza con hermosas imágenes y sonidos de la vida silvestre.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1789912448_0_20260419T164246087Z_58_imageprocessorclient-tvplus-linear-74d4c47476-9297p.jpeg"/>
+  </programme>
+  <programme start="20261015082159 +0000" stop="20261015092259 +0000" channel="Pluto TV Historia">
+    <title>Astroturismo, sentir el universo</title>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>La contaminación lumínica amenaza con apagar las estrellas a los ojos del mundo desarrollado.</desc>
+    <icon src="https://images.pluto.tv/episodes/630ddcf7c38c53001332aaa3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20170101</date>
+    <series-id system="pluto">630dc2c8e7bfae00137f5934</series-id>
+    <category>Documentary</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015092259 +0000" stop="20261015102559 +0000" channel="Pluto TV Historia">
+    <title>El Carnaval de las dos Orillas</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Es el Carnaval de los Indianos, una explosión para los sentidos con auténtico sabor del Caribe.</desc>
+    <icon src="https://images.pluto.tv/episodes/630ddcfac38c53001332ab78/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
+    <date>20140101</date>
+    <series-id system="pluto">630dc2c8e7bfae00137f593a</series-id>
+    <category>Documentary</category>
+    <category>Movie</category>
+  </programme>
+  <programme start="20261015102559 +0000" stop="20261015112659 +0000" channel="Pluto TV Historia">
+    <title>Programando la Nación</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="pluto">5f97f018405ab3001be91bc3</episode-num>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>La historia de los mensajes subliminales en América.</desc>
+    <icon src="https://images.pluto.tv/series/5f97f017405ab3001be91baf/tile_1769107681193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20110101</date>
+    <series-id system="pluto">5f97f017405ab3001be91baf</series-id>
+    <sub-title>Mensajes subliminales</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015081011 +0000" stop="20261015090911 +0000" channel="Ciudadanos por el mundo">
+    <title>Aragoneses por el mundo: Filipinas</title>
+    <episode-num system="onscreen">S14E194</episode-num>
+    <episode-num system="pluto">64c1d6adab3edd00132ad1a9</episode-num>
+    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
+    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20190101</date>
+    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
+    <sub-title>Filipinas</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015090911 +0000" stop="20261015100811 +0000" channel="Ciudadanos por el mundo">
+    <title>Aragoneses por el mundo: Hamburgo</title>
+    <episode-num system="onscreen">S16E228</episode-num>
+    <episode-num system="pluto">64c8ee2cd264b00013504fea</episode-num>
+    <episode-num system="original-air-date">20190101000000 +0000</episode-num>
+    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20190101</date>
+    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
+    <sub-title>Hamburgo</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015100811 +0000" stop="20261015105711 +0000" channel="Ciudadanos por el mundo">
+    <title>Aragoneses por el mundo: Alemania</title>
+    <episode-num system="onscreen">S11E151</episode-num>
+    <episode-num system="pluto">64c38ed1a1659900131e0905</episode-num>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20180101</date>
+    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
+    <sub-title>Alemania</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015105711 +0000" stop="20261015115311 +0000" channel="Ciudadanos por el mundo">
+    <title>Aragoneses por el mundo: Gotemburgo (Suecia)</title>
+    <episode-num system="onscreen">S13E189</episode-num>
+    <episode-num system="pluto">64c1ccd1ba8eeb00135bcadd</episode-num>
+    <episode-num system="original-air-date">20180101000000 +0000</episode-num>
+    <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+    <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20180101</date>
+    <series-id system="pluto">64c130c6ba8eeb001358bf7d</series-id>
+    <sub-title>Gotemburgo (Suecia)</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015081459 +0000" stop="20261015090159 +0000" channel="Pluto TV Cocina">
+    <title>A Bocados: A Bocados 14</title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <episode-num system="pluto">5f460d8db9a18c001a4b89c6</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Bacalao Ajoarriero A La Navarra. Luis Arbiol, Ultramarinos Gregorio Martin De La Calle Artekale De Bilbao. Seccion ¿Truco O Reto?: Escala Scoville</desc>
+    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
+    <sub-title>A Bocados 14</sub-title>
+    <category>Food &amp; Cooking</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015090159 +0000" stop="20261015094759 +0000" channel="Pluto TV Cocina">
+    <title>A Bocados: A Bocados 15</title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <episode-num system="pluto">5f460d84b9a18c001a4b89ad</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Berenjenas rellenas de picadillo. Alberto agirrebeitia enseñando berenjenas ecologicas del caserio lurkoi. Jon ander, carnicero del mercado de la ribera, sobre carnes para picadillo.</desc>
+    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
+    <sub-title>A Bocados 15</sub-title>
+    <category>Food &amp; Cooking</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015094759 +0000" stop="20261015103459 +0000" channel="Pluto TV Cocina">
+    <title>A Bocados: A Bocados 16</title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="pluto">5f460d84b9a18c001a4b89b2</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Receta: tomates con tartar de bonito y crema de aguacate. Seccion 'truco reto': concentracion licopeno por 100%. Lechugas batavia. Xabi, cooperativa barrenetxe (markina).</desc>
+    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
+    <sub-title>A Bocados 16</sub-title>
+    <category>Food &amp; Cooking</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015103459 +0000" stop="20261015111759 +0000" channel="Pluto TV Cocina">
+    <title>A Bocados: A Bocados 20</title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="pluto">5f460d5fb9a18c001a4b892e</episode-num>
+    <episode-num system="original-air-date">20170101000000 +0000</episode-num>
+    <desc>Receta: Euskal Txerri con manzana y salsa de sidra. Granja "Maskarada" de engorde de Euskal Txerri. Ander Ansorena y Maria Jesus Azpiroz elaborando chorizos y salchichones de Euskal Txerri.</desc>
+    <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20170101</date>
+    <series-id system="pluto">5f460c01b9a18c001a4b811e</series-id>
+    <sub-title>A Bocados 20</sub-title>
+    <category>Food &amp; Cooking</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015081841 +0000" stop="20261015090841 +0000" channel="Top Gear">
+    <title>Top Gear: Temporada 21, Episodio 4</title>
+    <episode-num system="onscreen">S21E04</episode-num>
+    <episode-num system="pluto">65364b512cf13100083e911f</episode-num>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Jeremy está en Italia para celebrar el regreso del reconocido Alfa Romeo 8C. Richard está en las dunas de Abu Dhabi para conducir una nueva máquina de seis ruedas de Mercedes Benz y James hace una extraña visita a la pista de pruebas.</desc>
+    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20140101</date>
+    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
+    <sub-title>Temporada 21, Episodio 4</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015090841 +0000" stop="20261015095841 +0000" channel="Top Gear">
+    <title>Top Gear: Temporada 21, Episodio 5</title>
+    <episode-num system="onscreen">S21E05</episode-num>
+    <episode-num system="pluto">65364b90295b840008a6af58</episode-num>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Richard Hammond está en Abu Dhabi para conducir un nuevo híbrido deportivo de Porsche, el 918, y hace pruebas para ver si tiene lo necesario para vencer al hipercoche híbrido de McLaren, el P1.</desc>
+    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20140101</date>
+    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
+    <sub-title>Temporada 21, Episodio 5</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015095841 +0000" stop="20261015104841 +0000" channel="Top Gear">
+    <title>Top Gear: Temporada 21, Especial Birmania: Parte 1</title>
+    <episode-num system="onscreen">S21E06</episode-num>
+    <episode-num system="pluto">65364baecf34940008fa1d6c</episode-num>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Jeremy Clarkson, Richard Hammond y James May se embarcan en un épico viaje a Burma; cuente con encontrar paisajes hermosos, la adversidad habitual, el funcionamiento incorrecto continuo y las discusiones importantes entre los tres anfitriones.</desc>
+    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20140101</date>
+    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
+    <sub-title>Temporada 21, Especial Birmania: Parte 1</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme>
+  <programme start="20261015104841 +0000" stop="20261015113741 +0000" channel="Top Gear">
+    <title>Top Gear: Temporada 21, Especial Birmania: Parte 2</title>
+    <episode-num system="onscreen">S21E07</episode-num>
+    <episode-num system="pluto">65364bc3045c3d00085471ff</episode-num>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Jeremy Clarkson, Richard Hammond, y James May continuan su viaje en tres camiones antiguos que apenas funcionan, dirigiéndonos al desafío final: construir un puente sobre el río Kwai, en Tailandia.</desc>
+    <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>20140101</date>
+    <series-id system="pluto">63048ee5946347001bf27bc1</series-id>
+    <sub-title>Temporada 21, Especial Birmania: Parte 2</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme>
 	<programme start="20261014075000 +0200" stop="20261014103600 +0200" channel="LA 1">
     <title>La hora de La 1: La hora de la actualidad T10 E203</title>
     <sub-title>2026 | +16 | *6.0/10</sub-title>
