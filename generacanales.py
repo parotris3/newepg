@@ -295,7 +295,7 @@ M+ Cero,M+ Cero,
 LALIGA Inside,LALIGA Inside
 M+ Fanzone,M+ Fanzone
 Infinity Viajes,Infinity Viajes
-M6,M6 MUSIC
+Halloween by DARK,Halloween by DARK
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
