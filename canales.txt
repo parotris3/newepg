@@ -218,4 +218,4 @@ M+ Cero,M+ Cero,
 LALIGA Inside,LALIGA Inside
 M+ Fanzone,M+ Fanzone
 Infinity Viajes,Infinity Viajes
-Halloween by DARK,Halloween by DARK
+Dviaje,Dviaje
