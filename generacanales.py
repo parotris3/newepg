@@ -297,6 +297,9 @@ LALIGA Inside,LALIGA Inside
 M+ Fanzone,M+ Fanzone
 Infinity Viajes,Infinity Viajes
 Dviaje,Dviaje
+Navidad - Rakuten TV,Rakuten Navidad
+1+1 Travel,1+1 Travel
+Oficios Perdidos,Oficios Perdidos
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
