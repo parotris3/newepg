@@ -202,6 +202,7 @@ BBC Series,BBC Series
 M+ Vamos 2,M+ Vamos 2
 Anime Visión,Anime Visión
 Anime Visión Classics,Anime Visión Classics
+AMC Anime,AMC Anime
 En Familia (Rakuten TV),Rakuten Familia
 Canal FlixOlé 1,Canal FlixOlé 1
 Canal FlixOlé 2,Canal FlixOlé 2
@@ -219,3 +220,6 @@ LALIGA Inside,LALIGA Inside
 M+ Fanzone,M+ Fanzone
 Infinity Viajes,Infinity Viajes
 Dviaje,Dviaje
+Navidad - Rakuten TV,Rakuten Navidad
+1+1 Travel,1+1 Travel
+Oficios Perdidos,Oficios Perdidos

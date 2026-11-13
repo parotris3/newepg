@@ -1,2 +1,128 @@
-# Fuente: https://raw.githubusercontent.com/parotris3/epg-acontra/refs/heads/main/acontra_plus.xml
-acontra+ CINE,acontra+ CINE,
+# Fuente: https://raw.githubusercontent.com/parotris3/epg-rakuten/refs/heads/main/rakuten_es_epg.xml
+france-24-en,France 24 FAST English,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0fe0be21-9f4b-4c4a-96f7-9a0767278a66.png
+el-pais,El País,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c23167f2-637a-498a-9452-497ec97f8e96.png
+newsworld-spa,NewsWorld,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/68b12376-0b9b-4337-aa6b-c7a64c1a963e.png
+cgtn,CGTN,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7668fa21-f6d9-4cc5-9f74-cccd94e4c202.png
+africanews-eng,Africanews,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/95969b71-d2c1-4cb1-8cac-e2e712fccf4c.png
+cgtn-es,CGTN,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/22fe40be-632d-458a-b203-06b92d5f3b0f.png
+bloomberg-tv-plus,Bloomberg TV+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/eda4d06b-6685-44ea-887d-985839dd1463.png
+bloomberg-originals-new,Bloomberg Originals,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8da643c7-9c7c-4a73-84b1-96824c200c6e.png
+the-reuters-60,The Reuters 60,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6f3cdcb7-ad53-489a-b2f2-7e234189f90a.png
+actualidad-360,Actualidad 360,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ad12d9cb-5054-4b0f-b114-ce8f32157a85.png
+euronews-live-spa,Euronews EN DIRECTO,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/db77c219-e1e9-4b3f-aa5e-cb9a02956e8c.png
+historia-y-vida,Historia y Vida,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e03d9366-d545-4a5f-baec-e190126d65be.png
+terra-mater-wild-es,Terra Mater WILD,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/75c9576f-b438-4a2b-b5a3-38dc4fc4457a.png
+oficios-perdidos,Oficios Perdidos,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/66e60d7b-1fbc-4a30-89ff-eb5a3f69265e.png
+cgtn-documentary,CGTN Documentary,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7ebb7426-d0c4-45fd-84c1-27cea41aaca4.png
+nature-time-es,Nature Time,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3151e8f7-3f72-4b92-aae8-9af17d08a670.png
+weather-spy-new,Weather Spy,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bfb62e18-ecb5-4923-8337-f74abec8ecb9.png
+planeta-salvaje,Planeta Salvaje,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9c56cefb-3ed0-43f9-88b3-65dc95c2a8e1.png
+royalworld-es,Royalworld - Nobleza y dinastías,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2e6d5d6-11e2-44bb-8ffb-c58548c2098a.png
+aftershock-meo-lc,Aftershock Mi Extraña Obsesión/Loca Compulsión,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bba52bf7-c2a7-4364-b3fe-23dfcb78beef.png
+crimenes-reales,Crímenes Reales,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/21253b5f-aed5-4d4c-ac02-c8a9a83936d0.png
+todo-crimen,Todo Crimen,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png
+filmrise-unsolved-mysteries-es,Misterios sin resolver,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/baf64e57-7f61-46ba-ba14-9c2a013b0f2f.png
+filmrise-forensic-files-spa,Archivos Forenses,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/ff3c782c-aa2f-40fe-8f04-d77d6f972d88-archivos-forenses-1643290173.png
+el-conquistador,El Conquistador,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/44e4cea1-18a9-4f23-8e62-e7a8ed7382d1.png
+jail-es,Jail,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/31222b16-d630-4652-88b7-491defb51a5a.png
+cops-en-espanol-new,COPS en español,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1ed83e01-6f98-40a3-9345-7d9699519fdd.png
+jade-fever-es,La fiebre del jade,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8cd796b0-596d-4b6e-b361-8907ec4c8e28.png
+ice-pilots-es,Pilotos del Ártico,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3f1cbc6f-c95a-4abe-b0d2-ea97241645c9.png
+sony-one-shark-tank-sp,Shark Tank,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/d00c0ba8-c86c-4163-bc4a-aa9a06201146.png
+pingu-rakuten-tv,Pingu,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/580cdd4e-2b35-4c67-8ec9-12c3179ef56e.png
+planeta-junior-spa,La abeja Maya,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/314143f7-20e6-4905-be4b-6061e53c6b88.png
+pocoyo,Pocoyó,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0f58c2fb-0f8d-4c3b-bcdd-38f813d4a634.png
+las-tres-mellizas,Las tres mellizas,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9f920607-4b8e-4baf-9963-28311983dc48.png
+baby-shark-tv,BABY SHARK TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/dc09b67f-ecd9-4ef0-81b5-abf2f63ed26e-baby-shark-tv-1643365877.png
+stingray-exitos-latinos,Stingray Exitos Latinos,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5e27dee4-ed1c-4025-a8e6-59be4ea510a5.png
+stingray-total-hits-spain,Stingray Total Hits Spain,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3e7ecca9-1b96-4c61-9801-9c472d09a892.png
+qello-concerts-by-stingray,Qello Concerts by Stingray,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fb6d99f4-35ec-46e0-9870-2cfe97cab88a-qello-concerts-by-stingray-1651649672.png
+that-s-90s00s,That's 90s00s,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/37f099f3-5247-4ed5-ba94-22058d027acf.png
+vevo-pop-es,Vevo Pop,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7da41c68-9ad0-427a-925d-1edf4767743c.png
+vevo-latino-es,Vevo Latino,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4385a4c8-0647-4e11-8676-d96f25f91390.png
+that-s-rock,That's ROCK,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ccae3a59-9cf3-462d-bfc1-356e0a08d136.png
+that-s-80s,That's 80s,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9b508706-24f0-440d-aac7-d30ccb6d7641.png
+that-s-70s,That's 70s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b61f63b9-5971-41d5-960f-49d7d4e8f2c8.png
+stingray-remember-the-80-s,Stingray: Remember the 80’s,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/097e5a61-18cf-4483-a032-c4e4ac187964.png
+stingray-greatest-hits,Stingray Greatest Hits,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/007839df-a5d7-4d48-aa74-d54ce6df0159.png
+deluxe-lounge-hd,Deluxe Lounge HD,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7d58e17-959f-4aa9-8724-eaf6f22ea2d5.png
+qwest-tv,Qwest TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e416d800-d9aa-438f-a527-04dcaba97ec0.png
+metal-rocks,Metal.Rocks,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a54c2bde-fc93-426c-a78b-6ad08a2affc6.png
+a-bocados,A bocados,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a3ff2a9f-2532-4be8-a872-1f1214d8c59d.png
+gusto-tv-new,Gusto TV,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f2a786f8-023b-489f-9529-1b6dbb0904fa-gusto-tv-1652347326.png
+daystar-eng,Daystar TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7347ca15-717e-4a4f-a767-9c2473eaf49e.png
+daystar-spa,Daystar Español,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/106a80cb-fed4-4ef0-be5b-dbe590a88ea4.png
+hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1,¡HOLA! Play,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0249cc70-5ee1-4d9c-8c2a-292fa9fc2cd6.png
+5-minutes-craft-es,Ideas en 5 minutos,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ff8dc26a-d037-46f1-827b-2dc2bd3f90d6.png
+stingray-naturescape,Stingray Naturescape,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33122010-bbb3-4449-89d6-80de568178cc.png
+vivir-con-perros,Vivir con perros,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1f801d8a-4629-470a-a79f-bef0c960033e.png
+vivir-con-gatos,Vivir con gatos,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/fded11b5-5333-4785-8e91-761bd81a9a4b.png
+el-mueble-es,El Mueble,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f06b3e53-1e46-4462-825f-9a0fca502b30.png
+med-tv,Med.TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e1f68daa-467c-4512-b0f2-f4e6cdafa638.png
+travelxp-es,Travelxp,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f1a10be1-4a3b-4fc8-af24-07bbcb1f9090.png
+1-1-travel,1+1 Travel,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2bf4afaa-84ba-4516-b834-797836251900.png
+the-design-network-new,The Design Network,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/fc527509-8dba-4ef9-81e1-c143204ed49e.png
+fashion-tv,Fashion TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png
+gipsy-kings-rakuten-tv,Los Gipsy Kings - Rakuten TV,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/d304bc4c-4bd8-43d9-b75c-4499c1ed2d72.png
+lifestyle-rakuten-tv,Estilo y Vida - Rakuten TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4d1281cf-8f8d-4197-9420-6ac85162e143.png
+nascar,NASCAR,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ca0d2254-81fc-4dc1-996c-4c9c228d7ec9.png
+free-live-sports,Free Live Sports,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/410bdad7-2323-4a0e-9844-70458845e492.png
+tennis-plus,Tennis+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/24966fb1-d4f0-4d97-90a3-f7d50684feb0.png
+red-bull-tv-es,Red Bull TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
+racer-international,RACER International,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/72a78bf8-e524-4c3b-aa8a-0cb53f10b1cd.png
+pfl-mma,PFL MMA,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ae31d5ea-3057-4a8e-b3ac-a492f71b25f9.png
+eurovision-sport,Eurovision Sport,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b1bd7823-b714-4dca-8357-84eb361d2d4e.png
+world-surf-league,World Surf League 24/7,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c56d69ab-3db1-4e0f-ac5e-aa2283deb25a.png
+surf-channel,Surf Channel,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/00e3db00-8804-488b-b335-39066cad204d-surf-channel-1643294430.png
+glory-kickboxing,GLORY Kickboxing,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f7ff571e-aa81-41ce-a131-cf6f9a5cb3de.png
+billiards-tv,World Billiards TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f700e9a8-f1dc-4b40-8f3f-a387cfceb0d8-world-billiards-tv-1654685118.png
+fuel-tv-new,FUEL TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7215f877-03fa-406e-8b2e-2422eae88563.png
+rally-tv-fast,Rally.TV FAST+,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a318356b-5202-4077-a700-806a8fa0bbd7.png
+inter-24-7-eng,INTER 24/7,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9863bd8c-3eec-475f-a4de-ff079eb1f771.png
+man-city-24-7,Man City 24/7,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/902e4fb0-6097-45c2-9624-bef4fb37dec5.png
+mypadel-tv,MyPadel TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1d0ef8cf-7463-4088-9a24-ee34e01bead6.png
+fifa-plus-es-new,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
+top-barca-es,Barça 24H,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/56ade7be-b230-481e-8ebc-55ecf969afb1.png
+jukin-fail-army-new,Fail Army,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/417f6bbf-4b14-456f-8e6b-2d753d7e4c40.png
+revry,Revry,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b33404bb-7a2c-4829-bcf7-2c0dd89dcf17.png
+people-are-awesome-new,People Are Awesome,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2c13f2a2-7742-4510-8958-6d64f72e5da8.png
+the-pet-collective-new,The Pet Collective,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7373c20-c6a7-475f-b389-1492e92457e2.png
+k-drama-plus,K-Drama+,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7a8edd80-aac4-454f-9b5b-55de57f8b6ba.png
+animevision-classics,AnimeVisión Classics,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f8c4faea-91e7-4e73-90ca-3e73f0725ded.png
+animevision,AnimeVisión,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f57a792c-85de-4545-b3f1-90dc3448a3a9.png
+midsomer-murders-spa,Los asesinatos de Midsomer,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/de7190f4-0f09-4606-8b7b-ead61be28bd9.png
+wedotv-amor,wedotv Amor,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6da9642d-bb16-4d84-b9fb-773f3d4b518b.png
+rookie-blue-spa,Rookie Blue,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/347013f2-99b2-4995-8ce8-88c0787353fd.png
+todo-drama,Todo Drama,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b8da0e9-a7f1-4fc5-85d5-668d0e4df0b9.png
+lol-espana,LOL España,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a56b8cb6-19aa-49cc-88bb-62cc567d139f.png
+mr-bean-live-action,Mr. Bean - Live Action,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/85d4251c-ee72-4b3f-ac56-a0dfaa099d96.png
+mr-bean-es,Mr. Bean,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7574d534-5a8e-44fe-9b20-1eb13cbff0db.png
+yu-gi-oh-new-spa,Yu-Gi-Oh!,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1659e200-8002-46ae-9405-c5b4005acd41.png
+bbc-top-gear-spa,Top Gear en español,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8a120192-684f-4e58-9acb-0003f6ac21e8-top-gear-en-espanol-1651835930.png
+todo-novelas,Todo Novelas,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/89ce6e17-0e8e-41af-af2b-8fd6d9ab944f.png
+rakuten-viki-es,Rakuten VIKI,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b8d55bfa-b593-4635-8f70-a6257f416db2.png
+beyblade-es,Beyblade,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/fefd744d-5eee-4fcb-989c-44be28a4c7b5.png
+bbc-series-es,BBC Series,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/23e2f5aa-c787-4c1f-a9e9-7c16dd7d513c.png
+sony-one-blacklist-sp,The Blacklist,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f10ccabb-c311-437d-bc98-d70d96d1eb6d.png
+sony-one-comedy-tv-sp,Sony One | Series Comedia,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/53c85f13-7335-467d-b23f-27b0139dcc71.png
+sony-one-faves-sp,Sony One | Éxitos,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2ccc4b7f-3313-472f-b0b7-491493d839c8.png
+filmrise-sci-fi-es,FilmRise Sci-Fi,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a2ebc430-d7ed-4e79-a537-c0ea63157644.png
+aguila-roja-rakuten-tv,Águila Roja,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0852c1f0-d29c-4bcf-938c-85c1e5cbef37.png
+alarm-for-cobra-rakuten-tv,Alerta Cobra - Brigada especial de carreteras,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2be9928e-b5d0-407b-9632-8ff1355f2b9d.png
+crime-rakuten-tv,Crimen - Rakuten TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png
+cine-western-es,Cine Western,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/813743d0-3b1e-4f02-a098-da0503587572.png
+grjngo-es,Grjngo,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3fbed640-711b-4a4e-a1eb-85dec37445ca.png
+feel-good-tv,Feel Good TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c97910b4-8c6c-4719-9d97-1b59aede0952.png
+verdi-tv,Verdi TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2873f8ab-8de4-4fa5-aa73-3af395fe9042.png
+dark-matter-es-new,Dark Matter,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/663e3442-a530-4431-bf55-7e465cb519c4.png
+cine-friki,Cine Friki,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a2ab230b-eb4e-427a-a233-440263f92745.png
+mytime-movie-network-spanish,MyTime Movie Network,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png
+family-rakuten-tv,Navidad - Rakuten TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1a67c634-2e6a-442d-9eb8-8f489f2caae5.png
+thriller-rakuten-tv,Thrillers - Rakuten TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/71338730-9b8c-4ef6-9ab9-2c3cfcdf7dfd.png
+sci-fi-rakuten-tv,Sci-Fi - Rakuten TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/04ac7530-32fc-45cb-b8f8-7f73f34105e4.png
+spanish-cinema-rakuten-tv,Cine Español - Rakuten TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png
+romance-rakuten-tv,Películas Románticas - Rakuten TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png
+drama-rakuten-tv,Películas de Drama - Rakuten TV,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png
+comedy-rakuten-tv,Comedia - Rakuten TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png
+action-rakuten-tv,Películas de Acción - Rakuten TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png
+top-movies-rakuten-tv,Pelis Top - Rakuten TV,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png
