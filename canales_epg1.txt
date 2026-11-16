@@ -42,7 +42,7 @@ vevo-pop-es,Vevo Pop,https://images-2.rakuten.tv/storage/global-live-channel/tra
 vevo-latino-es,Vevo Latino,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4385a4c8-0647-4e11-8676-d96f25f91390.png
 that-s-rock,That's ROCK,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ccae3a59-9cf3-462d-bfc1-356e0a08d136.png
 that-s-80s,That's 80s,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9b508706-24f0-440d-aac7-d30ccb6d7641.png
-that-s-70s,That's 70s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b61f63b9-5971-41d5-960f-49d7d4e8f2c8.png
+that-s-70s,that's Christmas,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8123eea8-443c-47ff-83e7-1d52536a7ab9.png
 stingray-remember-the-80-s,Stingray: Remember the 80’s,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/097e5a61-18cf-4483-a032-c4e4ac187964.png
 stingray-greatest-hits,Stingray Greatest Hits,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/007839df-a5d7-4d48-aa74-d54ce6df0159.png
 deluxe-lounge-hd,Deluxe Lounge HD,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7d58e17-959f-4aa9-8724-eaf6f22ea2d5.png
