@@ -120,7 +120,7 @@ Iberalia TV,Iberalia TV
 Clan,Clan TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
 Boing,Boing
 Baby TV,Baby TV
-Squirrel TV,Squirrel TV
+Squirrel TV,Squirrel
 Disney Channel,Disney Channel
 Enfamilia,Enfamilia
 Nickelodeon HD,Nickelodeon
