@@ -32,6 +32,7 @@ sony-one-shark-tank-sp,Shark Tank,https://images-0.rakuten.tv/storage/global-liv
 pingu-rakuten-tv,Pingu,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/580cdd4e-2b35-4c67-8ec9-12c3179ef56e.png
 planeta-junior-spa,La abeja Maya,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/314143f7-20e6-4905-be4b-6061e53c6b88.png
 pocoyo,Pocoyó,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0f58c2fb-0f8d-4c3b-bcdd-38f813d4a634.png
+h2o-friends-sp,H2O &amp; Friends,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f4fd769b-d24f-418e-9f05-3abff01db5b5.png
 las-tres-mellizas,Las tres mellizas,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9f920607-4b8e-4baf-9963-28311983dc48.png
 baby-shark-tv,BABY SHARK TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/dc09b67f-ecd9-4ef0-81b5-abf2f63ed26e-baby-shark-tv-1643365877.png
 stingray-exitos-latinos,Stingray Exitos Latinos,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5e27dee4-ed1c-4025-a8e6-59be4ea510a5.png
@@ -68,7 +69,7 @@ lifestyle-rakuten-tv,Estilo y Vida - Rakuten TV,https://images-2.rakuten.tv/stor
 nascar,NASCAR,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ca0d2254-81fc-4dc1-996c-4c9c228d7ec9.png
 free-live-sports,Free Live Sports,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/410bdad7-2323-4a0e-9844-70458845e492.png
 tennis-plus,Tennis+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/24966fb1-d4f0-4d97-90a3-f7d50684feb0.png
-red-bull-tv-es,Red Bull TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
+red-bull-tv-es-new,Red Bull TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/76959da1-ade3-4b6e-994a-72b33ad673f6.png
 racer-international,RACER International,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/72a78bf8-e524-4c3b-aa8a-0cb53f10b1cd.png
 pfl-mma,PFL MMA,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ae31d5ea-3057-4a8e-b3ac-a492f71b25f9.png
 eurovision-sport,Eurovision Sport,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b1bd7823-b714-4dca-8357-84eb361d2d4e.png
