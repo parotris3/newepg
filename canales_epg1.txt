@@ -71,6 +71,7 @@ free-live-sports,Free Live Sports,https://images-1.rakuten.tv/storage/global-liv
 tennis-plus,Tennis+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/24966fb1-d4f0-4d97-90a3-f7d50684feb0.png
 red-bull-tv-es-new,Red Bull TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/76959da1-ade3-4b6e-994a-72b33ad673f6.png
 racer-international,RACER International,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/72a78bf8-e524-4c3b-aa8a-0cb53f10b1cd.png
+global-champions-tour-gctv-eng,Global Champions Tour,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/993e47ad-281f-42e6-a0e3-a87e3e74b3ff.png
 pfl-mma,PFL MMA,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ae31d5ea-3057-4a8e-b3ac-a492f71b25f9.png
 eurovision-sport,Eurovision Sport,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b1bd7823-b714-4dca-8357-84eb361d2d4e.png
 world-surf-league,World Surf League 24/7,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c56d69ab-3db1-4e0f-ac5e-aa2283deb25a.png
