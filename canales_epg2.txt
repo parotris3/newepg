@@ -1,0 +1,4 @@
+# Fuente: https://raw.githubusercontent.com/parotris3/epg-f-orange/refs/heads/main/orange.xml
+Fútbol 1,Fútbol 1,
+Fútbol 2,Fútbol 2,
+Fútbol 3,Fútbol 3,
